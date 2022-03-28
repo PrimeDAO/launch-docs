@@ -15,7 +15,7 @@ While IDOs remove some friction, they also create new challenges, namely:
 
 ## Prime Launch's solution
 
-Prime Launch provides token-launchers with ready-to-go launch infrastructure: smooth UX, low initial capital requirements, well-curated project lists, and a relevant network of users. 
+Prime Launch provides token-launchers with ready-to-go launch infrastructure: smooth UX, low initial capital requirements, well-curated project lists, and a relevant network of users. test
 
 All official Prime Launches must be submitted through the <a href="/documentation/application-process">application process</a> and are curated by PrimeDAO to ensure the quality of listed projects.
 

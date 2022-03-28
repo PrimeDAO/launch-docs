@@ -1,15 +1,13 @@
 # GETTING STARTED
 
-## Introduction
-
-### What is Prime Launch?
+## <a name="what-is-prime-launch"></a>What is Prime Launch?
 
 Prime Launch is a platform to host decentralized and fair token launches on Ethereum — designed for teams who need simplicity, speed and performance. It’s powered by Balancer V.2 and curated by PrimeDAO.
 
 - Project teams and DAOs can use Prime Launch to seamlessly attract resources and distribute tokens to a wide audience of contributors.
 - Users looking to acquire tokens can get access to a list of newly launching high-quality Web3 projects curated by PrimeDAO.
 
-### Prime Launch: IDOs made better
+## <a name="idos-made-better"></a>Prime Launch: IDOs made better
 
 With the advancement of decentralized finance, an increasing number of crypto projects have shifted from listing tokens on centralized exchanges to listing on decentralized exchanges. With this transition, new mechanisms for market-making and token offerings have emerged. These mechanisms are generally called **Initial Decentralized Offerings (IDOs)**. IDOs have removed many frictions from the industry as projects no longer need to wait (or pay) for centralized exchanges to list their assets, and as a consequence, this has allowed a more diverse group of Web3 projects to emerge.
 
@@ -22,7 +20,7 @@ While IDOs remove some friction to token launches, they also create new type of 
 
 Prime Launch provides DAOs with ready-to-use launch infrastructure: low initial capital requirements, smooth UX, and a relevant network of users.
 
-### How is Prime Launch different?
+## <a name="hows-prime-launch-different"></a>How is Prime Launch different?
 
 (TODO)
 
@@ -114,7 +112,7 @@ The first question most people have is, of course, how is Prime Launch different
 
 In short, other open platforms are generally difficult to use or don't give you off-the-shelf control & ownership of your launches. Prime Launch provides the best tradeoff between design simplicity and decentralized ownership.
 
-### Features
+## <a name="prime-launch-features"></a>Prime Launch Features
 
 (TODO)
 
@@ -126,7 +124,7 @@ Security Features and Crisis Management Protocol
 
 Third party services
 
-### Types of Launch
+## <a name="types-of-launch"></a>Types of Launch
 
 As of today, Prime Launch allows you to create two types of launch:
 
@@ -138,7 +136,7 @@ As of today, Prime Launch allows you to create two types of launch:
 
 Please see below for a quick breakdown of the benefits and differences between the two:
 
-#### Seed Launch
+### <a name="over-seed-launch"></a>Seed Launch
 🌱 **Seed Launch** allows early-stage projects to host a launch without needing to pre-allocate any resources and with the ability to select which contributors are able to participate.
 
 **Seed Launch Benefits:**
@@ -148,8 +146,7 @@ Please see below for a quick breakdown of the benefits and differences between t
 - *Allowlist:* projects can optionally specify which addresses are allowed to invest in the seed launch
 - *Vesting:* projects can set vesting and cliffs periods for contributors
 
-<br>
-#### Liquid Launch (LBP)
+### <a name="over-seedlbp-launch"></a>Liquid Launch (LBP)
 🌊 **Liquid Launch (LBP)** leverages the [Balancer V2](https://docs.balancer.fi/) infrastructure. It uses a novel token distribution mechanism, the Liquidity Bootstrapping Pool (LBP), to disincentivize large contributors from buying all tokens in one go and to punish bots, leading to more fair and accessible distributions.
 
 **Liquid Launch (LBP) Benefits:**
@@ -162,7 +159,8 @@ Please see below for a quick breakdown of the benefits and differences between t
 
 Another benefit of Liquid Launches is Balancer's rewards protocol: users of the protocol receive BAL tokens to make up for any transaction costs. This means that up to 90% of your transaction costs when participating in Liquid Launches will be reimbursed in the form of BAL tokens.
 
-### Background (TODO)
+## <a name="prime-launch-background"></a>Prime Launch Background 
+(TODO)
 
 Prime Launch was created by Person1 /and Person2 (alt: group, PrimeDAO) in 20xx following an initial strategic workshop to create a new, modern DAO bootstrap platform to serve new DAOs.
 
@@ -174,7 +172,7 @@ Why we have build it, and how it connects with PrimeDAO value and mission.
 
 (TODO: move appropriately)
 
-## General FAQs
+## <a name="general-faq"></a>General FAQs
 
 ### Why should I use Prime Launch for my token sale?
 
@@ -211,7 +209,7 @@ Currently, Prime Launch operates on Mainnet and Arbitrum. We are expanding to ot
 
 ### **What are other services Prime provides?**
 
-**(TODO: add links)**
+(TODO: add links)
 
 With every launch, PrimeDAO Ecosystem Marketing & PR squad will help you craft the narrative around your launch, co-promote it and design assets for our and your channels, and most importantly we will bring our partner DAOs into the mix to co-market (i.e. BalancerDAO, GitcoinDAO, OlympusDAO, etc, depending on relevance to your product).
 
@@ -257,7 +255,7 @@ The geo-block feature prevents a standard list of geographic locations from cont
 
 (DEPRECATED)
 
-## LBP RELATED FAQ
+## <a name="lbp-related-faqs"></a>LBP RELATED FAQs
 
 ### **What is the process of an LBP launch on Prime Launch?**
 
@@ -282,50 +280,19 @@ The project admin can pause the LBP through the admin dashboard by clicking on �
 
 ### Roles and Permissions
 
-## SEED related FAQ
+## <a name="seed-related-faqs"></a>SEED related FAQs
 
 ### **What is an allowlist?**
 
 An allowlist is the list of addresses that are allowed to contribute to a seed launch.
 
-Quick guide on
-
-# SEED LAUNCH
-
-​​A Seed Launch is a token offering by an early-stage project to a small group of contributors, in order to raise initial resources for the venture.
-
-Seeds use a fixed swap function: contributors can swap the funding token for the seed token at a fixed, pre-determined price. Seeds specify a funding target: if the funding target is not met, contributors can reclaim their tokens.
-
-Project teams may also specify (with an allowlist) which addresses will be allowed to contribute to their Seed. Seed Launches may also include a token vesting schedule for contributors, including both a cliff (lock) and a linear vesting period. This means the project team can specify:
-
-- **Cliff**: an amount of time during which contributors who have received tokens cannot transfer them.
-- **Vest**: an amount of time, beginning after the cliff, during which a contributor's purchased tokens unlock linearly.
-
-To host a Seed Round on Prime Launch, see <a href="">Apply to host a Launch</a> or head straight to the <a href="/register">application page</a>. To contribute to a launch, see <a href="/documentation/contribute-to-a-launch">Contribute to a Launch</a> or view all upcoming launches <a href="/launches">here</a>.
-
-# LIQUID LAUNCH
-
-A Liquid Launch is a public token offering that works by attempting to bootstrap the liquidity of a new token. Liquid Launches use Balancer V2's Liquidity Bootstrapping Pools (LBPs) to facilitate fair and efficient environments for distributing tokens. The mechanism has been utilized dozens of times with [promising results](https://medium.com/perpetual-protocol/everything-you-need-to-know-about-the-first-liquidity-bootstrapping-pool-lbp-60a61b368c82).
-
-In the back end, a Liquid Launch is an adjustable Balancer V2 pool designed for initial distribution and price discovery of a new asset. The pool will generally start with a high weight of project tokens (e.g. 95%) and a small weight of funding tokens (e.g. 5% DAI). During the Liquid Launch, often 2 to 3 days, the pool weights are continuously rebalanced toward the funding token, which leads the project token's price to slowly decline. Contributors can participate at their preferred price point, while bots and arbitrageurs do not benefit from front-running (as buying early generally leads to overpaying).
-
-The result is a fair and accessible token launch shown to effectively discover the market price of an asset and raise funds for the project team, without requiring prohibitive initial capital or enabling problematic front-running.
-
-For a complete breakdown of how Liquid Launches work on the back end, please read Balancer's [primer](https://medium.com/balancer-protocol/a-primer-on-fair-token-launches-and-liquidity-bootstrapping-pools-11bab5ff33a2) or visit the [Balancer V2 Documentation](https://docs.balancer.fi/).
-
-To host a Liquid Launch, see <a href="/documentation/host-a-launch">Apply to host a Launch</a> or head straight to the <a href="/register">application page</a>. To contribute to a launch, see <a href="/documentation/contribute-to-a-launch">Contribute to a Launch</a> or view all upcoming launches <a href="/launches">here</a>.
-
-## Core Concepts
-
-## Core Concepts
-
 # HOST A LAUNCH
 
-## How to Host a Launch
+## <a name="how-to-host-a-launch"></a>How to Host a Launch
 
 To host a Launch via Prime Launch, you will need to follow the application process. Please follow the steps below to apply or request support from a Prime Launch Representative by filling out [this form](https://primedao.typeform.com/to/xwkxA9XP).
 
-### Apply for a Launch
+## <a name="apply-for-launch"></a>Apply for a Launch
 
 1. Go to the [application form](https://primedao.typeform.com/to/xwkxA9XP) to get started.
 2. Be ready to provide the following answers:
@@ -369,7 +336,7 @@ To host a Launch via Prime Launch, you will need to follow the application proce
 3. After you successfully fill out the application form, a Prime Launch squad member will reach out to you with additional information and the next steps. Please, be patient as your project might take 5-10 days to be reviewed. In the meantime, you can [join the PrimeDAO Discord Server](https://discord.com/invite/primedao) to connect with us. (TODO: adjust typo on the form, two times ‘connect with us’)
 4. When in doubt while filling out the application form, don't hesitate to reach out to a Prime Launch Representative on Discord or through the [contact form](https://primedao.typeform.com/PrimeLaunchSup).
 
-### Evaluation Process
+## <a name="evaluation-process"></a>Evaluation Process
 
 (TODO: ask feedback on this section: how much to reveal
 
@@ -379,7 +346,7 @@ We will then further align on a series of calls to seal our collaboration. At th
 
 If your application is not accepted, consider opening a [Prime Forum](https://forum.prime.xyz/) thread to receive feedback on your application and potentially resubmit your application after incorporating feedback.
 
-### Wizard Walkthrough to Register your Launch
+## <a name="wizard"></a>Wizard Walkthrough to Register your Launch
 
 (TODO: check links and buttons present)
 
@@ -389,9 +356,24 @@ See the walkthrough to register a Seed Launch with the Wizard (link)
 
 See the walkthrough to set up a Liquid Launch (LBP) with the Wizard (link)
 
+# SEED LAUNCH
+
+​​A Seed Launch is a token offering by an early-stage project to a small group of contributors, in order to raise initial resources for the venture.
+
+Seeds use a fixed swap function: contributors can swap the funding token for the seed token at a fixed, pre-determined price. Seeds specify a funding target: if the funding target is not met, contributors can reclaim their tokens.
+
+Project teams may also specify (with an allowlist) which addresses will be allowed to contribute to their Seed. Seed Launches may also include a token vesting schedule for contributors, including both a cliff (lock) and a linear vesting period. This means the project team can specify:
+
+- **Cliff**: an amount of time during which contributors who have received tokens cannot transfer them.
+- **Vest**: an amount of time, beginning after the cliff, during which a contributor's purchased tokens unlock linearly.
+
+To host a Seed Round on Prime Launch, see <a href="">Apply to host a Launch</a> or head straight to the <a href="/register">application page</a>. To contribute to a launch, see <a href="/documentation/contribute-to-a-launch">Contribute to a Launch</a> or view all upcoming launches <a href="/launches">here</a>.
+
+Go to Seed Launch Wizard Walkthrough (TODO add link)
+
 # SEED LAUNCH WALKTHROUGH
 
-## Connect with your wallet and start the wizard
+## <a name="basic-setup-to-host"></a>Setup your wallet and start the wizard
 
 1. Visit [https://launch.prime.xyz/register](https://launch.prime.xyz/register) (for Mainnet) [https://arbitrum.launch.prime.xyz](https://arbitrum.launch.prime.xyz/)/register (for Arbitrum).
 2. Click on ‘Connect to a Wallet’ and accept the [Prime Launch Disclaimer](https://launch.prime.xyz/terms-of-service) (TODO: harmonize, here is called disclaimer, at the end of the seed is called Terms of Service). Make sure you are connected to the intended network.
@@ -404,7 +386,7 @@ See the walkthrough to set up a Liquid Launch (LBP) with the Wizard (link)
 4. Click on ‘Start Registration’.
     - In the future you will be able to choose between different Seed packages. At the moment only one is available (Basic).
 
-## Setup your Project, Token, Seed and Contract Details
+## <a name="seed-setup"></a>Define your Project, Token, Seed and Contract Details
 
 1. Be ready to provide the following **General Information:**
     - Project Name
@@ -482,23 +464,38 @@ If your Seed Launch is approved you can fund it via the Admin Dashboard (TODO: a
     ![Launch%20Doc%20688c0/image1.png](Launch%20Doc%20688c0/image1.png)
     
 
-## Fund the Seed
+## <a name="seed-fund"></a>Fund the Seed
 
 (TODO)
 
-## Pause the Seed
+## <a name="seed-pause"></a>Pause the Seed
 
 (TODO)
 
-## Close the Seed
+## <a name="seed-close"></a>Close the Seed
 
 (TODO)
 
 Reclaim any extra project tokens (once the launch is over)
 
+# LIQUID LAUNCH
+
+A Liquid Launch is a public token offering that works by attempting to bootstrap the liquidity of a new token. Liquid Launches use Balancer V2's Liquidity Bootstrapping Pools (LBPs) to facilitate fair and efficient environments for distributing tokens. The mechanism has been utilized dozens of times with [promising results](https://medium.com/perpetual-protocol/everything-you-need-to-know-about-the-first-liquidity-bootstrapping-pool-lbp-60a61b368c82).
+
+In the back end, a Liquid Launch is an adjustable Balancer V2 pool designed for initial distribution and price discovery of a new asset. The pool will generally start with a high weight of project tokens (e.g. 95%) and a small weight of funding tokens (e.g. 5% DAI). During the Liquid Launch, often 2 to 3 days, the pool weights are continuously rebalanced toward the funding token, which leads the project token's price to slowly decline. Contributors can participate at their preferred price point, while bots and arbitrageurs do not benefit from front-running (as buying early generally leads to overpaying).
+
+The result is a fair and accessible token launch shown to effectively discover the market price of an asset and raise funds for the project team, without requiring prohibitive initial capital or enabling problematic front-running.
+
+For a complete breakdown of how Liquid Launches work on the back end, please read Balancer's [primer](https://medium.com/balancer-protocol/a-primer-on-fair-token-launches-and-liquidity-bootstrapping-pools-11bab5ff33a2) or visit the [Balancer V2 Documentation](https://docs.balancer.fi/).
+
+To host a Liquid Launch, see <a href="/documentation/host-a-launch">Apply to host a Launch</a> or head straight to the <a href="/register">application page</a>. To contribute to a launch, see <a href="/documentation/contribute-to-a-launch">Contribute to a Launch</a> or view all upcoming launches <a href="/launches">here</a>.
+
+Go to Liquid Launch (LBP) Wizard Walkthrough (TODO add link)
+
+
 # LIQUID LAUNCH (LPB) WALKTHROUGH
 
-## Connect with your wallet and start the wizard
+## <a name="basic-setup-to-host"></a>Setup your wallet and start the wizard
 
 1. Visit [https://launch.prime.xyz/register](https://launch.prime.xyz/register) (for Mainnet) [https://arbitrum.launch.prime.xyz](https://arbitrum.launch.prime.xyz/)/register (for Arbitrum).
 2. Click on ‘Connect to a Wallet’ and accept the [Prime Launch Disclaimer](https://launch.prime.xyz/terms-of-service) (TODO: harmonize, here is called disclaimer, at the end of the LBP is called Terms of Service). Make sure you are connected to the intended network.
@@ -511,7 +508,7 @@ Reclaim any extra project tokens (once the launch is over)
 4. Click on ‘Start Registration’.
     - In the future you will be able to choose between different LBP packages. At the moment only the *Basic* package is available.
 
-## Setup your Project, Token, LBP and Contract Details
+## <a name="lbp-setup"></a>Define your Project, Token, Seed and Contract Details
 
 1. Be ready to provide the following **General Information:**
     - Project Name
@@ -597,15 +594,15 @@ This is an example of a Stakeholder Group table distribution.
     
 If your LBP Launch is approved you can fund it via the Admin Dashboard (TODO: add link)
 
-## Fund the LBP
+## <a name="lbp-fund"></a>Fund the LBP
 
 (TODO)
 
-## Pause the LBP
+## <a name="lbp-pause"></a>Pause the LBP
 
 (TODO)
 
-## Close the LBP
+## <a name="lbp-close"></a>Close the LBP
 
 (TODO)
 
@@ -617,9 +614,9 @@ Reclaim any extra project tokens (once the launch is over)
 
 ## Contribute to a Launch
 
-To contribute to a launch and receive tokens, follow the steps outlined below.
+(TODO) To contribute to a launch and receive tokens, follow the steps outlined below.
 
-### Setup
+## <a name="setup-to-contribute"></a>Basic Setup to Contribute
 
 1. Have a compatible wallet set up. Prime Launch connects to most Ethereum wallets, including Metamask and all wallets compatible with WalletConnect. If you don't have an Ethereum wallet yet, set up a [Metamask account](https://metamask.io/) or use a WalletConnect-enabled mobile wallet like [Rainbow](https://rainbow.me/) or [Argent](https://www.argent.xyz/).
 
@@ -627,7 +624,7 @@ To contribute to a launch and receive tokens, follow the steps outlined below.
 
 4. On the <a href="/launches">Launches page</a>, you can view the upcoming launches and see which funding tokens the project is accepting in its launch.
 
-### Contributing to a Seed Launch
+## <a name="seed-contribute"></a>Contributing to a Seed Launch
 
 To contribute to a Seed Launch, you must hold some of the launch's funding token.
 
@@ -642,13 +639,14 @@ If the funding target or the maximum funding is reached, contributors can claim 
 
 For example, take a Seed Launch with a 3 day cliff and a 10 day vest. A contributor who has contributed enough to claim 10 tokens will have to wait 3 days for the cliff, after which their 10 tokens will unlock gradually over the next 10 days.
 
-### Contributing to a Liquid Launch
+## <a name="lbp-contribute"></a>Contributing to a Liquid Launch (LBP)
 
 To contribute to a Liquid Launch, you must have any token with liquidity on the Balancer Protocol, for example, ETH, DAI, USDC, or D2D.
 
 In the "Contribute" box on the right of the screen, connect with your wallet and accept the Prime Launch Policy. Afterward, select the token and amount you would want to exchange for the project token and click the approve button in the Contribute box to start the transaction to approve these tokens to be spent inside Prime Launch. Once confirmed, you can now click on Contribute, which will begin the transaction to swap your tokens for the project's tokens.
 
-### How a Liquid Launch LBP functions
+### <a name="how-lbp-works"></a>How a Liquid Launch LBP works
+(TODO move or link also to TLDR)
 
 Liquidity Bootstrapping Pools (LBPs) are adjustable Balancer pools used to bootstrap initial liquidity for a token and the initial price discovery of new assets. LBPs are liquidity pools that change weights over time. As the weights change, they create selling pressure on the project token, leading to the price of a project token dropping if there is no buying pressure.
 
@@ -658,13 +656,6 @@ In practice, this means that contributors should avoid participating too early i
 
 To understand more about LBs, please check [this detailed Medium article](https://medium.com/balancer-protocol/building-liquidity-into-token-distribution-a49d4286e0d4) or visit the Launch support channel in [PrimeDAO Discord Server](https://discord.com/invite/x8v59pG).
 
-## Troubleshoot
-
-Seed FAQ
-
-## Troubleshoot
-
-## Seed FAQ
 
 # CORE CONCEPTS
 
@@ -710,7 +701,8 @@ Seed FAQ
 
 ### Pause and closing the launch / emergency
 
-# TROUBLESHOOT
+# TROUBLESHOOT 
+(DEPRECATED)
 
 Initiate a deal
 
@@ -721,6 +713,7 @@ Closing a deal
 Joining a deal
 
 # ADVANCED
+(ADD)
 
 Tech
 
@@ -910,7 +903,7 @@ Test for Tabs Items
 - [RealityCards v1-May 2020](https://byterocket.com/audit/realitycards-v1)
 - [dao.care-Apr 2020](https://byterocket.com/audit/dao-care)
 
-# **Bankless Consulting**
+# Bankless Consulting
 
 ## Community strategy, branding and marketing content are the place to start (TODO: check)
 

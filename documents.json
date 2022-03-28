@@ -1,187 +1,191 @@
 {
     "documents": [{
             "title": "GETTING STARTED",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/overview.md"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/gettingStarted.md"
         },
         {
             "title": "--What is Prime Launch?",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/overview.md"
+            "url": "/documentation/getting-started#what-is-prime-launch"
         },
         {
             "title": "--Prime Launch: IDOs made better",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/hostALaunch.md"
+            "url": "/documentation/getting-started#idos-made-better"
         },
         {
             "title": "--How is Prime Launch different?",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/liquidLaunch.md"
+            "url": "/documentation/getting-started#hows-prime-launch-different"
         },
         {
             "title": "--Prime Launch Features",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/FAQ.md"
+            "url": "/documentation/getting-started#prime-launch-features"
         },
         {
             "title": "--Types of Launch",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/overview.md"
+            "url": "/documentation/getting-started#types-of-launch"
         },
         {
             "title": "---Seed Launch",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/overview.md"
+            "url": "/documentation/getting-started#over-seed-launch"
         },
         {
             "title": "---Liquid Launch",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/overview.md"
+            "url": "/documentation/getting-started#over-seedlbp-launch"
         },
         {
             "title": "--Prime Launch Background",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/overview.md"
+            "url": "/documentation/getting-started#prime-launch-background"
         },
         {
             "title": "FAQs",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/hostALaunch.md"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/FAQ.md"
         },
         {
             "title": "--General FAQs",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/liquidLaunch.md"
+            "url": "/documentation/faq#general-faqs"
         },
         {
             "title": "--LBP Related FAQs",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/FAQ.md"
+            "url": "/documentation/faq#lbp-related-faqs"
         },
         {
             "title": "--SEED related FAQs",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/overview.md"
+            "url": "/documentation/faq#seed-related-faqs"
         },
         {
             "title": "HOST A LAUNCH",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/liquidLaunch.md"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/hostALaunch.md"
         },
         {
             "title": "--How to Host a Launch",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/FAQ.md"
+            "url": "/documentation/host-a-launch#how-to-host-a-launch"
         },
         {
             "title": "--Apply for a Launch",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/FAQ.md"
+            "url": "/documentation/host-a-launch#apply-for-launch"
         },
         {
             "title": "--Evaluation Process",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/FAQ.md"
+            "url": "/documentation/host-a-launch#evaluation-process"
         },
         {
             "title": "--Wizard to Register your Launch",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/FAQ.md"
+            "url": "/documentation/host-a-launch#wizard"
         },
         {
             "title": "SEED LAUNCH",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/hostALaunch.md"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/seedLaunch.md"
         },
         {
             "title": "SEED LAUNCH WALKTHROUGH",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/hostALaunch.md"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/seedWizard.md"
         },
         {
             "title": "--Basic Setup to Host a Launch",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/hostALaunch.md"
+            "url": "/documentation/seed-wizard#basic-setup-to-host"
         },
         {
             "title": "--Setup the Seed",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/liquidLaunch.md"
+            "url": "/documentation/seed-wizard#seed-setup"
         },
         {
             "title": "--Fund the Seed",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/FAQ.md"
+            "url": "/documentation/seed-wizard#seed-fund"
         },
         {
             "title": "--Pause the Seed",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/hostALaunch.md"
+            "url": "/documentation/seed-wizard#seed-pause"
         },
         {
             "title": "--Close the Seed",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/liquidLaunch.md"
+            "url": "/documentation/seed-wizard#seed-close"
         },
         {
             "title": "LIQUID LAUNCH",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/hostALaunch.md"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/liquidLaunch.md"
         },
         {
             "title": "LIQUID LAUNCH (LPB) WALKTHROUGH",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/FAQ.md"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/lbpWizard.md"
         },
         {
             "title": "--Basic Setup to Host a Launch",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/hostALaunch.md"
+            "url": "/documentation/lbp-wizard#basic-setup-to-host"
         },
         {
             "title": "--Setup the LBP",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/liquidLaunch.md"
+            "url": "/documentation/lbp-wizard#lbp-setup"
         },
         {
             "title": "--Fund the LBP",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/FAQ.md"
+            "url": "/documentation/lbp-wizard#lbp-fund"
         },
         {
             "title": "--Pause the LBP",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/hostALaunch.md"
+            "url": "/documentation/lbp-wizard#lbp-pause"
         },
         {
             "title": "--Close the LBP",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/liquidLaunch.md"
+            "url": "/documentation/lbp-wizard#lbp-close"
         },
         {
             "title": "CONTRIBUTE TO A LAUNCH",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/FAQ.md"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/contributeToALaunch.md"
         },
         {
             "title": "--Setup to Contribute",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/hostALaunch.md"
+            "url": "/documentation/contribute-to-a-launch#setup-to-contribute"
         },
         {
             "title": "--Contributing to a Seed Launch",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/liquidLaunch.md"
+            "url": "/documentation/contribute-to-a-launch#seed-contribute"
         },
         {
             "title": "--Contributing to a LBP Launch",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/liquidLaunch.md"
+            "url": "/documentation/contribute-to-a-launch#lbp-contribute"
         },
         {
             "title": "CORE CONCEPTS",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/liquidLaunch.md"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/coreConcepts.md"
+        },
+        {
+            "title": "TROUBLESHOOT",
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/troubleshoot.md"
         },
         {
             "title": "ADVANCED",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/liquidLaunch.md"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/advanced.md"
         },
         {
             "title": "PRIME SERVICE PROVIDER PARTNERS",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/FAQ.md"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/primeServicePartners.md"
         },
         {
             "title": "--Longtail Financial",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/hostALaunch.md"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/longTailFinance.md"
         },
         {
             "title": "--LexDAO",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/liquidLaunch.md"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/lexDAO.md"
         },
         {
             "title": "--YapDAO",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/FAQ.md"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/yapDAO.md"
         },
         {
             "title": "--ByteRocket",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/hostALaunch.md"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/byteRocket.md"
         },
         {
             "title": "--Bankless Consulting",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/liquidLaunch.md"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/banklessConsulting.md"
         },
         {
             "title": "Partner Services FAQs",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/FAQ.md"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/partnerServicesFAQs.md"
         },
         {
             "title": "LAUNCH RESOURCES",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/prime-deals-dapp/development/src/documentation/hostALaunch.md"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/launchResources.md"
         }
     ]
 }

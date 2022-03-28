@@ -2,7 +2,7 @@
 
 (TODO: move appropriately)
 
-## <a name="general-faq"></a>General FAQs
+## <a name="general-faqs"></a>General FAQs
 
 ### Why should I use Prime Launch for my token sale?
 

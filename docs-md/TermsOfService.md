@@ -176,23 +176,23 @@ Please note that we only provide our platform for domestic and private use. You 
 
 ## **APPENDIX**
 
-## **RISKS**
+### **RISKS**
 
-## **PRICE FLUCTUATIONS**
+### **PRICE FLUCTUATIONS**
 
 ERC20 tokens are neither legal tender backed by governments nor by assets. The tokens' value is highly volatile causing price fluctuations, as auctions typically run for some time and trades are not executed instantly.
 
-## **REGULATORY ACTION**
+### **REGULATORY ACTION**
 
 We could be impacted by regulatory inquiries or action, which could impede or limit your ability to access or use the Platform.
 
-## **TECHNICAL UNDERSTANDING**
+### **TECHNICAL UNDERSTANDING**
 
 Cryptographic assets are described in technical language requiring a comprehensive understanding of computer science and mathematics to appreciate the inherent risks.
 
 TRANSACTIONS ON ETHEREUM MAINNET AND ETHEREUM VIRTUAL MACHINE COMPATIBLE VALIDATION MECHANISMS ARE IMMUTABLE AND IRREVERSIBLE
 Transactions on Ethereum Mainnet and Ethereum Virtual Machine compatible validation mechanisms are generally immutable and irreversible. Any transaction thereon is therefore irrevocable and final as soon as it is settled thereon. In the event that you send your tokens to sell to any other destination other than the Protocol smart contracts, such tokens may not be returned. We assume no responsibility and shall have no obligation to you if this occurs, including but not limited to any responsibility to recover, or assist to recover, any such tokens.
 
-## **FAILURES WITHIN DATA STORAGE SYSTEMS**
+### **FAILURES WITHIN DATA STORAGE SYSTEMS**
 
 Our Platform may in part be established on servers at data centre facilities of third party providers and on distributed systems for storing and accessing data including IPFS. Where centralised services may be used, we may be required to transfer our Platform to different facilities, and may incur service interruption in connection with such relocation. Data centre facilities are vulnerable to force majeure events or other failures. Third party providers may suffer breaches of security and others may obtain unauthorised access to our server data. Where content is stored via distributed systems, there may be interference in content addressing, content linking, indexing and discovery. As techniques used to obtain unauthorised access change frequently and generally are not recognised until used against a target, it may not be possible to anticipate these techniques or to implement adequate preventive measures.

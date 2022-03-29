@@ -5,35 +5,35 @@
         },
         {
             "title": "--What is Prime Launch?",
-            "url": "/documentation/getting-started#what-is-prime-launch"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/gettingStarted.md"
         },
         {
             "title": "--Prime Launch: IDOs made better",
-            "url": "/documentation/getting-started#idos-made-better"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/gettingStarted.md"
         },
         {
             "title": "--How is Prime Launch different?",
-            "url": "/documentation/getting-started#hows-prime-launch-different"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/gettingStarted.md"
         },
         {
             "title": "--Prime Launch Features",
-            "url": "/documentation/getting-started#prime-launch-features"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/gettingStarted.md"
         },
         {
             "title": "--Types of Launch",
-            "url": "/documentation/getting-started#types-of-launch"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/gettingStarted.md"
         },
         {
             "title": "---Seed Launch",
-            "url": "/documentation/getting-started#over-seed-launch"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/gettingStarted.md"
         },
         {
             "title": "---Liquid Launch",
-            "url": "/documentation/getting-started#over-seedlbp-launch"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/gettingStarted.md"
         },
         {
             "title": "--Prime Launch Background",
-            "url": "/documentation/getting-started#prime-launch-background"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/gettingStarted.md"
         },
         {
             "title": "FAQs",
@@ -41,15 +41,15 @@
         },
         {
             "title": "--General FAQs",
-            "url": "/documentation/faq#general-faqs"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/FAQ.md"
         },
         {
             "title": "--LBP Related FAQs",
-            "url": "/documentation/faq#lbp-related-faqs"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/FAQ.md"
         },
         {
             "title": "--SEED related FAQs",
-            "url": "/documentation/faq#seed-related-faqs"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/FAQ.md"
         },
         {
             "title": "HOST A LAUNCH",
@@ -57,19 +57,19 @@
         },
         {
             "title": "--How to Host a Launch",
-            "url": "/documentation/host-a-launch#how-to-host-a-launch"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/hostALaunch.md"
         },
         {
             "title": "--Apply for a Launch",
-            "url": "/documentation/host-a-launch#apply-for-launch"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/hostALaunch.md"
         },
         {
             "title": "--Evaluation Process",
-            "url": "/documentation/host-a-launch#evaluation-process"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/hostALaunch.md"
         },
         {
             "title": "--Wizard to Register your Launch",
-            "url": "/documentation/host-a-launch#wizard"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/hostALaunch.md"
         },
         {
             "title": "SEED LAUNCH",
@@ -81,23 +81,23 @@
         },
         {
             "title": "--Basic Setup to Host a Launch",
-            "url": "/documentation/seed-wizard#basic-setup-to-host"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/seedWizard.md"
         },
         {
             "title": "--Setup the Seed",
-            "url": "/documentation/seed-wizard#seed-setup"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/seedWizard.md"
         },
         {
             "title": "--Fund the Seed",
-            "url": "/documentation/seed-wizard#seed-fund"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/seedWizard.md"
         },
         {
             "title": "--Pause the Seed",
-            "url": "/documentation/seed-wizard#seed-pause"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/seedWizard.md"
         },
         {
             "title": "--Close the Seed",
-            "url": "/documentation/seed-wizard#seed-close"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/seedWizard.md"
         },
         {
             "title": "LIQUID LAUNCH",
@@ -109,23 +109,23 @@
         },
         {
             "title": "--Basic Setup to Host a Launch",
-            "url": "/documentation/lbp-wizard#basic-setup-to-host"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/lbpWizard.md"
         },
         {
             "title": "--Setup the LBP",
-            "url": "/documentation/lbp-wizard#lbp-setup"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/lbpWizard.md"
         },
         {
             "title": "--Fund the LBP",
-            "url": "/documentation/lbp-wizard#lbp-fund"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/lbpWizard.md"
         },
         {
             "title": "--Pause the LBP",
-            "url": "/documentation/lbp-wizard#lbp-pause"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/lbpWizard.md"
         },
         {
             "title": "--Close the LBP",
-            "url": "/documentation/lbp-wizard#lbp-close"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/lbpWizard.md"
         },
         {
             "title": "CONTRIBUTE TO A LAUNCH",
@@ -133,15 +133,15 @@
         },
         {
             "title": "--Setup to Contribute",
-            "url": "/documentation/contribute-to-a-launch#setup-to-contribute"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/contributeToALaunch.md"
         },
         {
             "title": "--Contributing to a Seed Launch",
-            "url": "/documentation/contribute-to-a-launch#seed-contribute"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/contributeToALaunch.md"
         },
         {
             "title": "--Contributing to a LBP Launch",
-            "url": "/documentation/contribute-to-a-launch#lbp-contribute"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/contributeToALaunch.md"
         },
         {
             "title": "CORE CONCEPTS",

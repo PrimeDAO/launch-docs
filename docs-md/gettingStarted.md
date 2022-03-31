@@ -1,13 +1,15 @@
-# GETTING STARTED
+<!-- # GETTING STARTED -->
 
-## <a name="what-is-prime-launch"></a>What is Prime Launch?
+## Introduction
 
-Prime Launch is a platform to host decentralized and fair token launches on Ethereum — designed for teams who need simplicity, speed and performance. It’s powered by Balancer V.2 and curated by PrimeDAO.
+### What is Prime Launch?
+
+Prime Launch is a platform to host decentralized and fair token launches on Ethereum — designed for teams who need simplicity, speed and performance. It’s powered by Balancer v2 and curated by PrimeDAO.
 
 - Project teams and DAOs can use Prime Launch to seamlessly attract resources and distribute tokens to a wide audience of contributors.
 - Users looking to acquire tokens can get access to a list of newly launching high-quality Web3 projects curated by PrimeDAO.
 
-## <a name="idos-made-better"></a>Prime Launch: IDOs made better
+### Prime Launch: IDOs made better
 
 With the advancement of decentralized finance, an increasing number of crypto projects have shifted from listing tokens on centralized exchanges to listing on decentralized exchanges. With this transition, new mechanisms for market-making and token offerings have emerged. These mechanisms are generally called **Initial Decentralized Offerings (IDOs)**. IDOs have removed many frictions from the industry as projects no longer need to wait (or pay) for centralized exchanges to list their assets, and as a consequence, this has allowed a more diverse group of Web3 projects to emerge.
 
@@ -20,136 +22,144 @@ While IDOs remove some friction to token launches, they also create new type of 
 
 Prime Launch provides DAOs with ready-to-use launch infrastructure: low initial capital requirements, smooth UX, and a relevant network of users.
 
-## <a name="hows-prime-launch-different"></a>How is Prime Launch different?
-
-(TODO)
+### How is Prime Launch different?
 
 The first question most people have is, of course, how is Prime Launch different from everything else out there? Here’s a table to give you a quick summary:
 
-<article id="9b7528de-1d28-4cef-9570-4e52391153a4" class="page-table-sans">
-        <div class="page-table-body-sans">
-            <table id="04bdb5c4-498a-4f4a-8145-c28d1e0c3e5a" class="simple-table-sans">
-                <thead>
-                    <tr id="6d5404e4-9913-4b05-9dfc-ac5c1ab57c87">
-                        <th id="Gb_Z" class="simple-table-header-sans">
-                        </th>
-                        <th id="m&gt;oO" class="simple-table-header-sans">Prime Launch (permissioned) (that’s us!)</th>
-                        <th id="|dAz" class="simple-table-header-sans">Permissionless approaches (eg. xxx) DYI/Artisanal</th>
-                        <th id="kR~T" class="simple-table-header-sans">Other Permissioned Platforms (openly comparing us with Copper)</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr id="c9eab74b-98ff-4bb4-b927-ad21705467ad">
-                        <td id="Gb_Z">🏎 Blazing fast setup</td>
-                        <td id="m&gt;oO">✅</td>
-                        <td id="|dAz"></td>
-                        <td id="kR~T"></td>
-                    </tr>
-                    <tr id="1dc726bf-d4dc-4a70-a9c3-e61769a06c18">
-                        <td id="Gb_Z">🔒 Reliably secure</td>
-                        <td id="m&gt;oO">✅</td>
-                        <td id="|dAz"></td>
-                        <td id="kR~T"></td>
-                    </tr>
-                    <tr id="570b8ee0-027a-4597-ab71-9eb2748429a9">
-                        <td id="Gb_Z">💆Foolproof UX</td>
-                        <td id="m&gt;oO">✅</td>
-                        <td id="|dAz"></td>
-                        <td id="kR~T"></td>
-                    </tr>
-                    <tr id="ee8566c4-f848-45a7-81e9-a0d42fabb791">
-                        <td id="Gb_Z">👩🏼‍🚀 in-house dev team</td>
-                        <td id="m&gt;oO">✅</td>
-                        <td id="|dAz">x</td>
-                        <td id="kR~T">?</td>
-                    </tr>
-                    <tr id="c36ef39c-72e8-421c-8456-9f6925921374">
-                        <td id="Gb_Z">🤑 Lowest cost / Skin-in-the-game / More aligned incentives / advantageous pricing model</td>
-                        <td id="m&gt;oO">✅</td>
-                        <td id="|dAz"></td>
-                        <td id="kR~T"></td>
-                    </tr>
-                    <tr id="c0d59610-c993-44b5-aa24-8a6aec3fd845">
-                        <td id="Gb_Z">⭐️ Curated project list</td>
-                        <td id="m&gt;oO">✅</td>
-                        <td id="|dAz">X</td>
-                        <td id="kR~T">both</td>
-                    </tr>
-                    <tr id="127828d4-ffcd-4413-a450-ceb55359f854">
-                        <td id="Gb_Z">🛠 Comprehensive Documentation &amp; Tutorials</td>
-                        <td id="m&gt;oO">✅</td>
-                        <td id="|dAz">X</td>
-                        <td id="kR~T">X</td>
-                    </tr>
-                    <tr id="fea2d418-1e09-4868-a666-9f66f908b86d">
-                        <td id="Gb_Z">🛒 Marketing and communications planning support</td>
-                        <td id="m&gt;oO">✅</td>
-                        <td id="|dAz">X</td>
-                        <td id="kR~T">V</td>
-                    </tr>
-                    <tr id="3e7b2e9d-1680-4a81-88f6-3f4f4167d137">
-                        <td id="Gb_Z">♻️ Open Source</td>
-                        <td id="m&gt;oO">V</td>
-                        <td id="|dAz">X</td>
-                        <td id="kR~T">?</td>
-                    </tr>
-                    <tr id="b3e4887a-e9b3-4808-8d35-1dd93c59d4d5">
-                        <td id="Gb_Z">🥷 Service Partners</td>
-                        <td id="m&gt;oO">V</td>
-                        <td id="|dAz">X (not free)</td>
-                        <td id="kR~T">X</td>
-                    </tr>
-                    <tr id="d33fa441-e86a-4097-99be-aebd8dbc7840">
-                        <td id="Gb_Z">👨‍💻 Launch support and emergency response</td>
-                        <td id="m&gt;oO">✅</td>
-                        <td id="|dAz">X</td>
-                        <td id="kR~T">V</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-    </article>
-
+<div>
+          <table id="5f37ee76-34ea-4c18-8440-4c219146cd1a" class="simple-table">
+            <thead>
+              <tr id="e6248397-da7d-46fe-8f3b-1d625eccffb3">
+                <th id="Gb_Z" class="simple-table-header"></th>
+                <th id="m&gt;oO" class="simple-table-header">
+                  Prime Launch (that’s us!)
+                </th>
+                <th id="|dAz" class="simple-table-header">
+                  DYI permissionless approaches (e.g. ?)
+                </th>
+                <th id="kR~T" class="simple-table-header">
+                  Other Permissioned Platforms (e.g. Copper)
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr id="830ea020-5c5f-4960-8f6f-249be50e13f1">
+                <td id="Gb_Z">🏎 Complexity made simple</td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">❌</td>
+                <td id="kR~T">somehow</td>
+              </tr>
+              <tr id="23cf4c41-c3c3-4e0a-8dac-bb7f0c2d1ab2">
+                <td id="Gb_Z">🔒 Reliably anti-rug</td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">❌</td>
+                <td id="kR~T">❌</td>
+              </tr>
+              <tr id="bcce8346-427b-4f0c-8139-57ca7e13a4c2">
+                <td id="Gb_Z">💆 Foolproof UX</td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">❌</td>
+                <td id="kR~T">good UX</td>
+              </tr>
+              <tr id="599d3335-d60e-4660-87e5-8c2025573a33">
+                <td id="Gb_Z">👩🏼‍🚀 in-house dev team</td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">❌</td>
+                <td id="kR~T">❌</td>
+              </tr>
+              <tr id="179d1fd3-51e5-4cff-990f-8f25a430acb7">
+                <td id="Gb_Z">🤑 Best aligned incentives</td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">❌</td>
+                <td id="kR~T">❌</td>
+              </tr>
+              <tr id="5df04754-ce6c-4719-8904-31d436c02c35">
+                <td id="Gb_Z">⭐️ Curated project list</td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">❌</td>
+                <td id="kR~T">curated and non-curated</td>
+              </tr>
+              <tr id="79b45d40-26e5-4112-9633-14530af78868">
+                <td id="Gb_Z">🛠 Comprehensive Documentation &amp; Tutorials</td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">✅ but hard!</td>
+                <td id="kR~T">basic documentation</td>
+              </tr>
+              <tr id="3c4262b6-5ad9-4908-a3ee-df1e5c7cc48b">
+                <td id="Gb_Z">
+                  🛒 Marketing and communications planning support
+                </td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">❌</td>
+                <td id="kR~T">✅</td>
+              </tr>
+              <tr id="42b7f0b7-feac-4908-ad22-f208f24c829d">
+                <td id="Gb_Z">♻️ Open Source</td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">✅</td>
+                <td id="kR~T">❌</td>
+              </tr>
+              <tr id="37d57bba-c2d2-4785-93e1-5c335b815e10">
+                <td id="Gb_Z">🥷 Service Partners</td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">❌ (not free)</td>
+                <td id="kR~T">❌</td>
+              </tr>
+              <tr id="c477a96f-f33b-4d69-9762-3060276ce590">
+                <td id="Gb_Z">👨‍💻 Launch support and emergency response</td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">❌</td>
+                <td id="kR~T">✅</td>
+              </tr>
+              <tr id="b304b9fc-897e-4d55-a584-9d233ef588b4">
+                <td id="Gb_Z">⛓️ Chains Available</td>
+                <td id="m&gt;oO">Ethereum, Arbitrum, and soon Celo, Gnosis</td>
+                <td id="|dAz">Ethereum and EVM-compatible</td>
+                <td id="kR~T">Ethereum and Polygon</td>
+              </tr>
+            </tbody>
+          </table>
+<code>Comparision updated to March 2022</code>
+<br>
+<br>
 In short, other open platforms are generally difficult to use or don't give you off-the-shelf control & ownership of your launches. Prime Launch provides the best tradeoff between design simplicity and decentralized ownership.
 
-## <a name="prime-launch-features"></a>Prime Launch Features
+### Prime Launch Features & Types of Launch
 
-(TODO)
+> **PrimeDAO provides crucial infrastructure and accessible tools for the DAO ecosystem. We want to enable the ecosystem to scale and facilitates a more widespread transition towards decentralized organizing. We are a mixed group of passionated people organized as an open value network. Our mission is to facilitates DAO bootstrap, cross-DAO coordination, and DAO evolution. This mission is embodied in the infrastructure we create - decentralized, participatory, human-centric, and impact-focused.**
+> 
 
-Highlight overall features (?)
+**Prime Launch** is designed to simplify the workflow of DAO incumbents and new players that wants to offer their tokens or bootstrap liquidity by reducing the cost and effort of doing so. We deploy security mechanisms to minimize or eliminate the risk for you and your contributors. Launch provides a plethora of configurability and compliance options for DAOs to adopt in their token offering. With our foolproof UX we have streamlined safe and effective ways to adopt otherwise complex smart contracts and escrow mechanisms – and we do so with an extremely friendly business model that has a grow the pie approach in which we both have skin-in-the-game in each others’ projects. Our permissioned curatorial approach to projects that want to get listed and use launch has one main objective: always ensure quality launches for DAOs and their contributors. Project administrators *can* follow our comprehensive documentation and tutorials, alongside a dedicated human support.
 
-Overview of more techy features
+Prime Launch’s decentralized and curated token offering platform is powered by Balancer v2, and soon will features our own custom open-source contracts for Celo and Gnosis Chain that we developed [in partnership with Symmetric](https://medium.com/primedao/symmetric-primedao-working-together-to-accelerate-the-dao-ecosystem-on-celo-and-gnosis-chain-4fac91b38200). All these contracts are thoroughly audited and are designed to enables fair and effective token launches.
 
-Security Features and Crisis Management Protocol
+With every launch we are ready to support DAOs with dedicated in-house and third-party support services thanks to our strong partnerships. For a list and full breakdown of these services see here (TODO add anchor).
 
-Third party services
+Our cross-functional team constantly identifies potentially harmful architectural and operational risks in all of our Prime products, and our interfaces and protocols are shipped to maximize the autonomy and agency of our users and partners, especially in executing damage control operations (e.g. pausing the sale in case of some issue).
 
-## <a name="types-of-launch"></a>Types of Launch
+### Types of Launch
 
 As of today, Prime Launch allows you to create two types of launch:
 
-- **Seed Launch**, a simple way to host a decentralized token offering to raise early investments at a fixed price.
+🌱 **Seed Launch**, a simple way to host a decentralized token offering to raise early investments at a fixed price.
 
-- **Liquid Launch** allowing a project to conduct a fair market-based discovery of the token price and to boosts its already existing liquidity.
-
+🌊 **Liquid Launch** allowing a project to conduct a fair market-based discovery of the token price and to boosts its already existing liquidity.
 <br>
-
 Please see below for a quick breakdown of the benefits and differences between the two:
 
-### <a name="over-seed-launch"></a>Seed Launch
 🌱 **Seed Launch** allows early-stage projects to host a launch without needing to pre-allocate any resources and with the ability to select which contributors are able to participate.
 
-**Seed Launch Benefits:**
+**Benefits:**
 
-- *Decentralized:* Prime Launch uses decentralized infrastructure and is run by PrimeDAO core contributors
+- *Decentralized:* Prime Launch uses decentralized infrastructure and is run by PrimeDAO contributors
 - *Simplified:* pre-determined maximum amount raised & quantity of tokens sold
 - *Allowlist:* projects can optionally specify which addresses are allowed to invest in the seed launch
 - *Vesting:* projects can set vesting and cliffs periods for contributors
+<br>    
 
-### <a name="over-seedlbp-launch"></a>Liquid Launch (LBP)
-🌊 **Liquid Launch (LBP)** leverages the [Balancer V2](https://docs.balancer.fi/) infrastructure. It uses a novel token distribution mechanism, the Liquidity Bootstrapping Pool (LBP), to disincentivize large contributors from buying all tokens in one go and to punish bots, leading to more fair and accessible distributions.
+🌊 **Liquid Launch** leverages the [Balancer V2](https://docs.balancer.fi/) infrastructure. It uses a novel token distribution mechanism, the Liquidity Bootstrapping Pool (LBP), to disincentivize large contributors from buying all tokens in one go and to punish bots, leading to more fair and accessible distributions.
 
-**Liquid Launch (LBP) Benefits:**
+**Benefits:**
 
 - *Decentralized*: Prime Launch uses decentralized infrastructure and is run by PrimeDAO core contributors
 - *Capital-efficient:* LBPs help distribute more tokens at efficient price points with less initial capital
@@ -159,11 +169,23 @@ Please see below for a quick breakdown of the benefits and differences between t
 
 Another benefit of Liquid Launches is Balancer's rewards protocol: users of the protocol receive BAL tokens to make up for any transaction costs. This means that up to 90% of your transaction costs when participating in Liquid Launches will be reimbursed in the form of BAL tokens.
 
-## <a name="prime-launch-background"></a>Prime Launch Background 
-(TODO)
+### Background
 
-Prime Launch was created by Person1 /and Person2 (alt: group, PrimeDAO) in 20xx following an initial strategic workshop to create a new, modern DAO bootstrap platform to serve new DAOs.
+The rise of decentralized technologies has unleashed unprecedented opportunities for individuals and collectives to co-found, own and govern digitally-native organizations. Formulating and organizing around shared principles, capacities, and resources, the successful recipe for any collaborative network, is now easier than ever.
 
-So, we do things a little differently to most others:
+People are neither natural cooperators nor competitive, cutthroat rationalists - they respond to the incentives in front of them. DAOs unlock cooperative ways of organizing new institutions, and by doing so they help dissolve the monopoly on ownership by a limited class of super-managers and investor elites.
 
-Why we have build it, and how it connects with PrimeDAO value and mission.
+**Prime equips DAOs with all the tools and resources they need to thrive.** Each DAO’s lifecycle, from initiation to growth, to maturity has been given careful consideration ([explore our other products](https://www.prime.xyz/)).
+
+PrimeDAO enables cooperation with DAO tooling on a greater scale than previously possible, acknowledging, compensating, and recognizing the multiple stakeholders necessary to make any human venture successful - including those traditionally neglected in existing incentive structures.
+
+You may find yourself drawn to Prime’s mission and products, and want to participate in PrimeDAO as a co-creator. You are welcome to [reach out to us](https://discord.com/invite/primedao) if these values resonate with you as well.
+
+This is what drives us daily, and what we expect from you:
+
+- **Radical purpose:** Doing what is right is at the core. Speaking and acting with candid care and purpose. Feedback is sharp, yet thoughtful.
+- **Open:** Building in the open and with others. Productively stewarding key DAO ecosystem primitives while leveraging existing building blocks.
+- **Collaborative:** Doing everything as a team. This practically means being on calls across teams, and communicating across distances. We are shared owners who are responsible to each other.
+- **Adaptive:** Being action-oriented, experimental, and creator-minded. Web3 changes fast: we should too.
+- **Accommodative:** Willing to help, forgive mistakes, and welcome others. Good collaborators ask without assuming and seek understanding without judgment. If we can’t do this, wngmi.
+- **Knowledge sharing:** We aim to extend our knowledge to the network and are fundamentally curious about the world around us.

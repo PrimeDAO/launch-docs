@@ -1,5 +1,5 @@
-# Longtail Financial
-
+<!-- # Longtail Financial
+ -->
 **Longtail Financial (LTF)** is a decentralized research firm that is investigating the intersection of blockchain technologies in finance. With a focus is in machine learning, token engineering, and decentralised coordination.
 
 Shawn Anderson, their founder, has an advantage with his curiosity and extensive background in the field of Artificial Intelligence (A.I.). This combination of talent has given him the opportunity to apply cutting edge techniques to real world problems in business and government, while helping in the research field.

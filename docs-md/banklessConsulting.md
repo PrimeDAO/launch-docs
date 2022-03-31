@@ -1,6 +1,6 @@
-# Bankless Consulting
+<!-- # **Bankless Consulting** -->
 
-## Community strategy, branding and marketing content are the place to start (TODO: check)
+## Community strategy, branding and marketing content are the place to start
 
 Based on collected insights, Bankless Consulting will canvas a community strategy for your organization. This will cover:
 

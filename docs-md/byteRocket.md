@@ -1,4 +1,4 @@
-# ByteRocket
+<!-- # ByteRocket -->
 
 ## Smart Contract Audits
 
@@ -27,58 +27,7 @@ Having concluded a manual analysis, they then leverage state-of-the-art software
 Having finished the review and analysis independently, our auditors now internally discuss their findings and go through the code once more. The discussion includes possible attack vectors and challenging the protocol in theory and practice.
 
 ## Recent Audits
-Test for responsive table
-<div style="overflow-x:auto;">
-<table>
-  <tr>
-    <th style="width:50%">Features</th>
-    <th>Basic</th>
-    <th>Pro</th>
-  </tr>
-  <tr>
-    <td>Sample text</td>
-    <td><i class="fa fa-remove"></i></td>
-    <td><i class="fa fa-check"></i></td>
-  </tr>
-  <tr>
-    <td>Sample text</td>
-    <td><i class="fa fa-check"></i></td>
-    <td><i class="fa fa-check"></i></td>
-  </tr>
-</table>
-</div>
 
-Test for Tabs Items
-
-<!-- Tab links -->
-<div class="tab">
-  <button class="tablinks" onclick="openCity(event, '2022-audits')">2022</button>
-  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
-  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
-</div>
-
-<!-- Tab content -->
-<div id="2022-audits" class="tabcontent">
-  <h3>2022</h3>
-  <ul>
-  <li>[Invictus Capital Fund Contract-January 2022](https://byterocket.com/audit/invictus-capital-fund-contract)</li>
-  <li><a href="https://byterocket.com/audit/float-capital-yield-manager">Float Capital Yield Manager-January 2022</a></li>
-  <li>[Castello Coin-January 2022](https://byterocket.com/audit/castello-coin)</li>
-  </ul>
-  </p>
-</div>
-
-<div id="2021-audits" class="tabcontent">
-  <h3>2021</h3>
-  <p>Paris is the capital of France.</p>
-</div>
-
-<div id="2020-audits" class="tabcontent">
-  <h3>2020</h3>
-  <p>Tokyo is the capital of Japan.</p>
-</div>
-
-(TODO) Table
 2022
 
 - [Invictus Capital Fund Contract-January 2022](https://byterocket.com/audit/invictus-capital-fund-contract)

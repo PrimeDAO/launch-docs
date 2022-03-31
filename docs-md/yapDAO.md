@@ -1,5 +1,5 @@
-# YapDAO
-
+<!-- # YapDAO
+ -->
 ## Brand Positioning Workshop
 
 What is your story, and how do you communicate it in one sentence? In a crowded industry, we are all fighting to get media attention on our projects for raises, new product launches, and to contribute to the DAO and decentralization narrative. What separates a successful project from an unsuccessful one often comes down to how well we communicate the industry problem we are solving.

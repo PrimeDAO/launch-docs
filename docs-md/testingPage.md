@@ -163,30 +163,6 @@ As of today, Prime Launch allows you to create two types of launch:
 - *Multi-asset:* smart order routing means that users can trade any token in exchange for the project token at the price of higher slippage (using Balancer on the back end)
 - *Multi-use:* it allows you to configure your launch to segue into another use-case (e.g to serve as a 50/50 AMM after the initial sale)
 
-<!-- 
-
-### Background
-
-The rise of decentralized technologies has unleashed unprecedented opportunities for individuals and collectives to co-found, own and govern digitally-native organizations. Formulating and organizing around shared principles, capacities, and resources, the successful recipe for any collaborative network, is now easier than ever.
-
-People are neither natural cooperators nor competitive, cutthroat rationalists - they respond to the incentives in front of them. DAOs unlock cooperative ways of organizing new institutions, and by doing so they help dissolve the monopoly on ownership by a limited class of super-managers and investor elites.
-
-**Prime equips DAOs with all the tools and resources they need to thrive.** Each DAO’s lifecycle, from initiation to growth, to maturity has been given careful consideration ([explore our other products](https://www.prime.xyz/)).
-
-PrimeDAO enables cooperation with DAO tooling on a greater scale than previously possible, acknowledging, compensating, and recognizing the multiple stakeholders necessary to make any human venture successful - including those traditionally neglected in existing incentive structures.
-
-You may find yourself drawn to Prime’s mission and products, and want to participate in PrimeDAO as a co-creator. You are welcome to [reach out to us](https://discord.com/invite/primedao) if these values resonate with you as well.
-
-This is what drives us daily, and what we expect from you:
-
-- **Radical purpose:** Doing what is right is at the core. Speaking and acting with candid care and purpose. Feedback is sharp, yet thoughtful.
-- **Open:** Building in the open and with others. Productively stewarding key DAO ecosystem primitives while leveraging existing building blocks.
-- **Collaborative:** Doing everything as a team. This practically means being on calls across teams, and communicating across distances. We are shared owners who are responsible to each other.
-- **Adaptive:** Being action-oriented, experimental, and creator-minded. Web3 changes fast: we should too.
-- **Accommodative:** Willing to help, forgive mistakes, and welcome others. Good collaborators ask without assuming and seek understanding without judgment. If we can’t do this, wngmi.
-- **Knowledge sharing:** We aim to extend our knowledge to the network and are fundamentally curious about the world around us.
-
--->
 
 # CORE CONCEPTS & FAQs-->
 

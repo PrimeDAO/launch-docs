@@ -22,27 +22,102 @@ The first question most people have is, of course, how is Prime Launch different
 
 [Comparison table (need to be exported in HTML)](https://www.notion.so/Comparison-table-need-to-be-exported-in-HTML-9b7528de1d284cef95704e52391153a4)
 
-|  | Prime Launch
-(that’s us!) | DYI permissionless approaches | Other Permissioned Platforms (e.g. Copper) |
-| --- | --- | --- | --- |
-| 🏎 Complexity made simple | ✅ | ❌ | somehow |
-| 🔒 Reliably anti-rug | ✅ | ❌ | ❌ |
-| 👩🏼‍🚀 in-house dev team | ✅ | ❌ | ✅ |
-| ⭐️ Curated projects list that you can trust | ✅ | ❌ | curated and non-curated |
-| 🛒 Go-to-market support | ✅ | ❌ | ✅ |
-| ♻️ Open Source | ✅ | ✅ | ❌ |
-| 🥷 Connecting you with top-notch service partners | ✅ | ❌ (not free) | ❌ |
-| 👨‍💻 Launch support and emergency response | ✅ | ❌ | ✅ |
-| ⛓️ Chains Available | Ethereum, Arbitrum, and soon Celo, Gnosis | Ethereum and EVM-compatible | Ethereum,  Arbitrum, Polygon |
-| 🤑 Accessible Pricing model | ✅ | ❌ | ❌ |
-| 💸 Launch fee | 0% fee for launching
-+
-optional tipping model for services
-(0-1.5% of what you raise) |  | a flat percentage fee (?) of what you raise |
-
-<code>Comparision updated to March 2022</code>
-<br>
-<br>
+<div>
+    <table id="5f37ee76-34ea-4c18-8440-4c219146cd1a" class="simple-table">
+        <thead>
+            <tr id="e6248397-da7d-46fe-8f3b-1d625eccffb3">
+                <th id="Gb_Z" class="simple-table-header"></th>
+                <th id="m&gt;oO" class="simple-table-header">
+                    Prime Launch (that’s us!)
+                </th>
+                <th id="|dAz" class="simple-table-header">
+                    DYI permissionless approaches (e.g. ?)
+                </th>
+                <th id="kR~T" class="simple-table-header">
+                    Other Permissioned Platforms (e.g. Copper)
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="830ea020-5c5f-4960-8f6f-249be50e13f1">
+                <td id="Gb_Z">🏎 Complexity made simple</td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">❌</td>
+                <td id="kR~T">somehow</td>
+            </tr>
+            <tr id="23cf4c41-c3c3-4e0a-8dac-bb7f0c2d1ab2">
+                <td id="Gb_Z">🔒 Reliably anti-rug</td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">❌</td>
+                <td id="kR~T">❌</td>
+            </tr>
+            <tr id="bcce8346-427b-4f0c-8139-57ca7e13a4c2">
+                <td id="Gb_Z">💆 Foolproof UX</td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">❌</td>
+                <td id="kR~T">good UX</td>
+            </tr>
+            <tr id="599d3335-d60e-4660-87e5-8c2025573a33">
+                <td id="Gb_Z">👩🏼‍🚀 in-house dev team</td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">❌</td>
+                <td id="kR~T">❌</td>
+            </tr>
+            <tr id="179d1fd3-51e5-4cff-990f-8f25a430acb7">
+                <td id="Gb_Z">🤑 Best aligned incentives</td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">❌</td>
+                <td id="kR~T">❌</td>
+            </tr>
+            <tr id="5df04754-ce6c-4719-8904-31d436c02c35">
+                <td id="Gb_Z">⭐️ Curated project list</td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">❌</td>
+                <td id="kR~T">curated and non-curated</td>
+            </tr>
+            <tr id="79b45d40-26e5-4112-9633-14530af78868">
+                <td id="Gb_Z">🛠 Comprehensive Documentation &amp; Tutorials</td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">✅ but hard!</td>
+                <td id="kR~T">basic documentation</td>
+            </tr>
+            <tr id="3c4262b6-5ad9-4908-a3ee-df1e5c7cc48b">
+                <td id="Gb_Z">
+                    🛒 Marketing and communications planning support
+                </td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">❌</td>
+                <td id="kR~T">✅</td>
+            </tr>
+            <tr id="42b7f0b7-feac-4908-ad22-f208f24c829d">
+                <td id="Gb_Z">♻️ Open Source</td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">✅</td>
+                <td id="kR~T">❌</td>
+            </tr>
+            <tr id="37d57bba-c2d2-4785-93e1-5c335b815e10">
+                <td id="Gb_Z">🥷 Service Partners</td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">❌ (not free)</td>
+                <td id="kR~T">❌</td>
+            </tr>
+            <tr id="c477a96f-f33b-4d69-9762-3060276ce590">
+                <td id="Gb_Z">👨‍💻 Launch support and emergency response</td>
+                <td id="m&gt;oO">✅</td>
+                <td id="|dAz">❌</td>
+                <td id="kR~T">✅</td>
+            </tr>
+            <tr id="b304b9fc-897e-4d55-a584-9d233ef588b4">
+                <td id="Gb_Z">⛓️ Chains Available</td>
+                <td id="m&gt;oO">Ethereum, Arbitrum, and soon Celo, Gnosis</td>
+                <td id="|dAz">Ethereum and EVM-compatible</td>
+                <td id="kR~T">Ethereum and Polygon</td>
+            </tr>
+        </tbody>
+    </table>
+    <code>Comparision updated to March 2022</code>
+    <br>
+    <br>
 
 In short, other open platforms are generally difficult to use or don't give you off-the-shelf control & ownership of your launches. Prime Launch provides the best tradeoff between design simplicity and decentralized ownership.
 

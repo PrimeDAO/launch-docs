@@ -235,7 +235,7 @@ Related to token launch, we offer services from our partners which includes:
 **Bankless Consulting**
 
 Please visit this section (TODO add link: here) to understand better how each of these partner can help you boost your launch success!
-****
+
 
 It’s also important to remember that PrimeDAO offers a few other products to support your DAO to evolve:
 
@@ -544,10 +544,7 @@ Click ‘Proceed’ to move to the final section of the Wizard.
     - Confirm the contract interaction in your wallet and awaits confirmation.
     - You will be redirected to a page that provides you with the Seed configuration stored in the JSON format in IPFS. **Please save this URL as it can allow us to debug potential problem. Note that it takes a moment to generate the JSON file on IPFS so be patient.**
 13. Once approved, we will inform you to your contact e-mail and the Seed Admin will have to fund the Seed with the correct amount of project tokens. The amount of project tokens to fund is calculated as **Funding Tokens Maximum** divided by **Project Token Exchange Ratio** plus the fee (which at the moment is 0% for all launches). In order to fund you need to connect with the Seed Administrator wallet to the [Admin Dashboard](https://launch.prime.xyz/admin/seeds/dashboard).
-After adding the funds, the Seed is initialized. The Seed will automatically be live and available for people to contribute on your start date.
-    
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd37fcac-6ac7-460a-ae2b-46d27f47f550/image1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd37fcac-6ac7-460a-ae2b-46d27f47f550/image1.png)
-    
+After adding the funds, the Seed is initialized. The Seed will automatically be live and available for people to contribute on your start date.    
 
 # <!--LIQUID LAUNCH-->
 
@@ -655,10 +652,6 @@ Click ‘Proceed’ to move to the final section of the Wizard.
 14. Once approved, we will inform you to your contact e-mail and and the Liquid Launch Administrator will have to fund the LBP with the Project Token and the Funding (Collateral) Tokens previously defined. This can be done by connecting the Liquid Launch Admin wallet to the [Admin Dashboard](https://ethereum-dev-launch-prime.vercel.app/admin/lbps/dashboard)
 15. After adding the funds, the LBP will become available in the Prime Launch UI on the start date that you set. However, please note that LBP swapping will be in a "paused" state until, as the LBP administrator, you unpause it to open up swapping. At close time, to ensure an accurate LBP launch, you will need to pause the LBP to turn off swapping. You can also do this in the [Admin Dashboard](https://launch.prime.xyz/admin/lbps/dashboard).
     
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/edbe6487-374c-4c7a-bfc4-3a4b0b1e1397/image3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/edbe6487-374c-4c7a-bfc4-3a4b0b1e1397/image3.png)
-    
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c87cb274-3253-4f98-8e17-04a762656bbe/image2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c87cb274-3253-4f98-8e17-04a762656bbe/image2.png)
-    
 
 # <!--CONTRIBUTE TO A LAUNCH-->
 
@@ -692,14 +685,14 @@ To contribute to a Seed Launch, you must hold some of the launch's funding token
 
 If the funding target or the maximum funding is reached, contributors can claim project tokens in the "Claim" box after the launch ends.
     
-    [https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-claim-600_5OsJ_EV7DR?ik-sdk-version=javascript-1.4.3&updatedAt=1648822810453](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-claim-600_5OsJ_EV7DR?ik-sdk-version=javascript-1.4.3&updatedAt=1648822810453)
+  [https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-claim-600_5OsJ_EV7DR?ik-sdk-version=javascript-1.4.3&updatedAt=1648822810453](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-claim-600_5OsJ_EV7DR?ik-sdk-version=javascript-1.4.3&updatedAt=1648822810453)
     
-    Note, however, that many Seed Launches will have vesting periods with cliffs and/or vesting time:
+  Note, however, that many Seed Launches will have vesting periods with cliffs and/or vesting time:
     
     - Cliff: a period of time before any tokens can be claimed
     - Vest: a period of time following the cliff during which tokens will be unlocked linearly
     
-    For example, take a Seed Launch with a 3 day cliff and a 10 day vest. A contributor who has contributed enough to claim 10 tokens will have to wait 3 days for the cliff, after which their 10 tokens will unlock gradually over the next 10 days.
+  For example, take a Seed Launch with a 3 day cliff and a 10 day vest. A contributor who has contributed enough to claim 10 tokens will have to wait 3 days for the cliff, after which their 10 tokens will unlock gradually over the next 10 days.
     
 
 ## Contributing to a Liquid Launch
@@ -773,7 +766,7 @@ Lawyers within LexDAO, independent of the DAO itself, will often support project
 
 What is your story, and how do you communicate it in one sentence? In a crowded industry, we are all fighting to get media attention on our projects for raises, new product launches, and to contribute to the DAO and decentralization narrative. What separates a successful project from an unsuccessful one often comes down to how well we communicate the industry problem we are solving.
 
-*A Brand Positioning workshop and Brand Guide ensures your project has the tools needed to deliver your message to a wide audience.*
+A Brand Positioning workshop and Brand Guide ensures your project has the tools needed to deliver your message to a wide audience.
 
 **Deliverables**: Brand Positioning Workshop:
 

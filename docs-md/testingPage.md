@@ -1,9 +1,3 @@
-# <!-- GETTING STARTED -->
-
-## Introduction
-
-### What is Prime Launch?
-
 Prime Launch is a platform to host reliable and fair token launches on Ethereum — designed for teams who need simplicity, speed, and performance. It’s powered by Balancer v2 and curated by Prime Rating.
 
 - Project teams and DAOs can use Prime Launch to seamlessly attract resources and distribute tokens to a wide audience of contributors in a completely web3 native way.
@@ -25,97 +19,27 @@ Prime Launch provides DAOs with ready-to-use launch infrastructure: low initial 
 ### How is Prime Launch different?
 
 The first question most people have is, of course, how is Prime Launch different from everything else out there? Here’s a table to give you a quick summary:
-<div>
-          <table id="5f37ee76-34ea-4c18-8440-4c219146cd1a" class="simple-table">
-            <thead>
-              <tr id="e6248397-da7d-46fe-8f3b-1d625eccffb3">
-                <th id="Gb_Z" class="simple-table-header"></th>
-                <th id="m&gt;oO" class="simple-table-header">
-                  Prime Launch (that’s us!)
-                </th>
-                <th id="|dAz" class="simple-table-header">
-                  DYI permissionless approaches
-                </th>
-                <th id="kR~T" class="simple-table-header">
-                  Other Permissioned Platforms (e.g. Copper)
-                </th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr id="830ea020-5c5f-4960-8f6f-249be50e13f1">
-                <td id="Gb_Z">🏎 Complexity made simple</td>
-                <td id="m&gt;oO">✅</td>
-                <td id="|dAz">❌</td>
-                <td id="kR~T">somehow</td>
-              </tr>
-              <tr id="23cf4c41-c3c3-4e0a-8dac-bb7f0c2d1ab2">
-                <td id="Gb_Z">🔒 Reliably anti-rug</td>
-                <td id="m&gt;oO">✅</td>
-                <td id="|dAz">❌</td>
-                <td id="kR~T">❌</td>
-              </tr>
-              <tr id="599d3335-d60e-4660-87e5-8c2025573a33">
-                <td id="Gb_Z">👩🏼‍🚀 in-house dev team</td>
-                <td id="m&gt;oO">✅</td>
-                <td id="|dAz">❌</td>
-                <td id="kR~T">✅</td>
-              </tr>
-              <tr id="5df04754-ce6c-4719-8904-31d436c02c35">
-                <td id="Gb_Z">⭐️ Curated projects list that you can trust</td>
-                <td id="m&gt;oO">✅</td>
-                <td id="|dAz">❌</td>
-                <td id="kR~T">curated and non-curated</td>
-              </tr>
-              <tr id="3c4262b6-5ad9-4908-a3ee-df1e5c7cc48b">
-                <td id="Gb_Z">🛒 Go-to-market support</td>
-                <td id="m&gt;oO">✅</td>
-                <td id="|dAz">❌</td>
-                <td id="kR~T">✅</td>
-              </tr>
-              <tr id="42b7f0b7-feac-4908-ad22-f208f24c829d">
-                <td id="Gb_Z">♻️ Open Source</td>
-                <td id="m&gt;oO">✅</td>
-                <td id="|dAz">✅</td>
-                <td id="kR~T">❌</td>
-              </tr>
-              <tr id="37d57bba-c2d2-4785-93e1-5c335b815e10">
-                <td id="Gb_Z">🥷 Service Partners</td>
-                <td id="m&gt;oO">✅</td>
-                <td id="|dAz">❌ (not free)</td>
-                <td id="kR~T">❌</td>
-              </tr>
-              <tr id="c477a96f-f33b-4d69-9762-3060276ce590">
-                <td id="Gb_Z">👨‍💻 Launch support and emergency response</td>
-                <td id="m&gt;oO">✅</td>
-                <td id="|dAz">❌</td>
-                <td id="kR~T">✅</td>
-              </tr>
-              <tr id="b304b9fc-897e-4d55-a584-9d233ef588b4">
-                <td id="Gb_Z">⛓️ Chains Available</td>
-                <td id="m&gt;oO">Ethereum, Arbitrum, and soon Celo, Gnosis</td>
-                <td id="|dAz">Ethereum and EVM-compatible</td>
-                <td id="kR~T">Ethereum, Arbitrum, Polygon</td>
-              </tr>
-              <tr id="179d1fd3-51e5-4cff-990f-8f25a430acb7">
-                <td id="Gb_Z">🤑 Accessible Pricing model</td>
-                <td id="m&gt;oO">✅</td>
-                <td id="|dAz">❌</td>
-                <td id="kR~T">❌</td>
-              </tr>
-              <tr id="a3f3ff54-a685-419e-90b6-7ecfec8370eb">
-                <td id="Gb_Z">💸 Launch fee</td>
-                <td id="m&gt;oO">
-                  0% fee for launching + optional tipping model for services
-                  (0-1.5% of what you raise)
-                </td>
-                <td id="|dAz"></td>
-                <td id="kR~T">
-                  <em>a flat percentage fee </em>(?) of what you raise
-                </td>
-              </tr>
-            </tbody>
-          </table>
-</div>
+
+[Comparison table (need to be exported in HTML)](https://www.notion.so/Comparison-table-need-to-be-exported-in-HTML-9b7528de1d284cef95704e52391153a4)
+
+|  | Prime Launch
+(that’s us!) | DYI permissionless approaches | Other Permissioned Platforms (e.g. Copper) |
+| --- | --- | --- | --- |
+| 🏎 Complexity made simple | ✅ | ❌ | somehow |
+| 🔒 Reliably anti-rug | ✅ | ❌ | ❌ |
+| 👩🏼‍🚀 in-house dev team | ✅ | ❌ | ✅ |
+| ⭐️ Curated projects list that you can trust | ✅ | ❌ | curated and non-curated |
+| 🛒 Go-to-market support | ✅ | ❌ | ✅ |
+| ♻️ Open Source | ✅ | ✅ | ❌ |
+| 🥷 Connecting you with top-notch service partners | ✅ | ❌ (not free) | ❌ |
+| 👨‍💻 Launch support and emergency response | ✅ | ❌ | ✅ |
+| ⛓️ Chains Available | Ethereum, Arbitrum, and soon Celo, Gnosis | Ethereum and EVM-compatible | Ethereum,  Arbitrum, Polygon |
+| 🤑 Accessible Pricing model | ✅ | ❌ | ❌ |
+| 💸 Launch fee | 0% fee for launching
++
+optional tipping model for services
+(0-1.5% of what you raise) |  | a flat percentage fee (?) of what you raise |
+
 <code>Comparision updated to March 2022</code>
 <br>
 <br>
@@ -472,9 +396,9 @@ To host a Seed Round on Prime Launch, see (TODO add anchor/link) Apply to host a
 2. Click on ‘Connect to a Wallet’ and accept the [Prime Launch Terms of Service](https://launch.prime.xyz/terms-of-service). Make sure you are connected to the intended network.
     - You need to have a compatible wallet set up. Prime Launch connects to most Ethereum wallets, including Metamask and all wallets compatible with WalletConnect. If you don't have an Ethereum wallet yet, set up a [Metamask account](https://metamask.io/) or use a WalletConnect-enabled mobile wallet like [Rainbow](https://rainbow.me/) or [Argent](https://www.argent.xyz/).
     - You will need to fund your wallet with some ETH for paying the transaction costs needed to setup the launch (~$25 worth of ETH is safe). Most wallets will give you instructions on how to acquire those tokens and ETH.
-        
-        ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/1-launch-connect-to-wallet.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648387811269](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/1-launch-connect-to-wallet.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648387811269)
-        
+    
+    ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-wallet-connect_s9psklGul.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648833968114](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-wallet-connect_s9psklGul.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648833968114)
+    
 3. Click on ‘Start Seed’
 4. Click on ‘Start Registration’.
     - In the future you will be able to choose between different Seed packages. At the moment only one is available (Basic).
@@ -503,14 +427,14 @@ To host a Seed Round on Prime Launch, see (TODO add anchor/link) Apply to host a
     - The project token distribution between different stakeholders. Click on ‘+ Add Stakeholder’ to add a new Stakeholder Group.
     - For each group you need to define the amount of token you plan to distribute (or that you have already distributed) to that Stakeholder Group, as well as the Vest and Cliff period (TODO: add link to glossary) for that group.
     
-    ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/Add-Stakeholder-Group_ODCnz2c4b.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648390554075](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/Add-Stakeholder-Group_ODCnz2c4b.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648390554075)
+    ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-add-stakeholder_05JaC5qiN.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648833486931](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-add-stakeholder_05JaC5qiN.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648833486931)
     
 4. Projects who issue tokens in multiple rounds should clearly demarcate the amount of tokens distributed in each round, so for instance you can specify a group for each round.
 This is an example of a Stakeholder Group table distribution.
     
-    ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/Example-of-stakeholder-vesting-table-launch_nTToP242J.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648390770887](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/Example-of-stakeholder-vesting-table-launch_nTToP242J.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648390770887)
-    
     Click ‘Next’ to move to the next section of the Wizard
+    
+    ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-stakeholder-table_UhueFMnuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648834239823](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-stakeholder-table_UhueFMnuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648834239823)
     
 5. Next up, you will need to setup the **Seed Details** following these guidelines (you can [get in touch with us](https://primedao.typeform.com/PrimeLaunchSup) to understand how to better setup these details according to your strategy):
     - Select from the dropdown menu the **Funding Token** you want to raise, which is the token that your contributors will have to use to fund your Seed Launch in exchange your project’s tokens.
@@ -572,9 +496,9 @@ To host a Liquid Launch, see <a href="/documentation/host-a-launch">Apply to hos
 2. Click on ‘Connect to a Wallet’ and accept the [Prime Launch Terms of Service](https://launch.prime.xyz/terms-of-service). Make sure you are connected to the intended network.
     - You need to have a compatible wallet set up. Prime Launch connects to most Ethereum wallets, including Metamask and all wallets compatible with WalletConnect. If you don't have an Ethereum wallet yet, set up a [Metamask account](https://metamask.io/) or use a WalletConnect-enabled mobile wallet like [Rainbow](https://rainbow.me/) or [Argent](https://www.argent.xyz/).
     - You will need to fund your wallet with some ETH for paying the transaction costs needed to setup the launch (~$25 worth of ETH is safe). Most wallets will give you instructions on how to acquire those tokens and ETH.
-        
-        ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/1-launch-connect-to-wallet.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648387811269](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/1-launch-connect-to-wallet.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648387811269)
-        
+    
+    ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-wallet-connect_s9psklGul.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648833968114](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-wallet-connect_s9psklGul.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648833968114)
+    
 3. Click on ‘Start LBP’
 4. Click on ‘Start Registration’.
     - In the future you will be able to choose between different LBP packages. At the moment only the *Basic* package is available.
@@ -602,13 +526,13 @@ To host a Liquid Launch, see <a href="/documentation/host-a-launch">Apply to hos
     - The maximum supply of project tokens to exist over the project's lifetime. If there is no maximum, provide a reasonable estimate.
     - The project token distribution between different stakeholders. Click on ‘+ Add Stakeholder’ to add a new Stakeholder Group.
     - For each group you need to define the amount of token you plan to distribute (or that you have already distributed) to that Stakeholder Group, as well as the Vest and Cliff period (TODO: add link to glossary) for that group.
-        
-        ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/Add-Stakeholder-Group_ODCnz2c4b.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648390554075](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/Add-Stakeholder-Group_ODCnz2c4b.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648390554075)
-        
+    
+    ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-add-stake.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648834470125](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-add-stake.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648834470125)
+    
 4. Projects who issue tokens in multiple rounds should clearly demarcate the amount of tokens distributed in each round, so for instance you can specify a group for each round.
 This is an example of a Stakeholder Group table distribution. 
     
-    ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/Example-of-stakeholder-vesting-table-launch_nTToP242J.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648390770887](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/Example-of-stakeholder-vesting-table-launch_nTToP242J.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648390770887)
+    ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-stakeholder-table_UhueFMnuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648834239823](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-stakeholder-table_UhueFMnuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648834239823)
     
     Click ‘Next’ to move to the next section of the Wizard
     
@@ -671,13 +595,13 @@ To contribute to a launch and receive project tokens in exchange of funding toke
 1. To see upcoming or live launches that you might want to contribute to visit [https://launch.prime.xyz/launches](https://launch.prime.xyz/launches) (for Mainnet) [https://arbitrum.launch.prime.xyz/launches](https://arbitrum.launch.prime.xyz/launches) (for Arbitrum)
 2. Click on ‘Connect to a Wallet’ and accept the [Prime Launch Terms of Service](https://launch.prime.xyz/terms-of-service). Make sure you are connected to the intended network.
     - You need to have a compatible wallet set up. Prime Launch connects to most Ethereum wallets, including Metamask and all wallets compatible with WalletConnect. If you don't have an Ethereum wallet yet, set up a [Metamask account](https://metamask.io/) or use a WalletConnect-enabled mobile wallet like [Rainbow](https://rainbow.me/) or [Argent](https://www.argent.xyz/).
-        
-        ![https://ik.imagekit.io/primedao/launch-contribute-connect.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648661150198](https://ik.imagekit.io/primedao/launch-contribute-connect.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648661150198)
-        
+    
+    ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-contribute-wallet_akpdrixbo.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648834954728](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-contribute-wallet_akpdrixbo.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648834954728)
+    
     - The first time you connect to the Prime Launch website with a new wallet you will be required to accept the [Prime Launch Terms of Service Disclaimer](https://launch.prime.xyz/terms-of-service).
-        
-        [https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/Prime-Launch-Disclaimer_Z5YORGgWZ?ik-sdk-version=javascript-1.4.3&updatedAt=1648661565264](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/Prime-Launch-Disclaimer_Z5YORGgWZ?ik-sdk-version=javascript-1.4.3&updatedAt=1648661565264)
-        
+    
+    [https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-tos-600_3_i1RVNhi_?ik-sdk-version=javascript-1.4.3&updatedAt=1648835406846](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-tos-600_3_i1RVNhi_?ik-sdk-version=javascript-1.4.3&updatedAt=1648835406846)
+    
 3. Next up, you will need to fund your wallet with some of the tokens you want to contribute to the Launch (funding tokens) and some ETH for paying transaction costs (~$25 worth of ETH is safe). Most wallets will give you instructions on how to acquire those tokens and ETH.
 4. On the <a href="/launches">Launches page</a>, you can view the upcoming launches and see which funding tokens the project is accepting in its launch.
     - Make sure to DYOR (Do Your Own Research) on the project you want to fund, starting from the links attached to the Launch in the About section of the launch page
@@ -690,13 +614,13 @@ To contribute to a Seed Launch, you must hold some of the launch's funding token
 
 1. In the "Contribute" box, exchange the funding tokens for rights to claim a fixed amount of the project token when the launch ends. Contributors can claim back the funding tokens they contributed anytime before the launch ends (but will lose rights to claim project tokens if they do).
     
-    ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/contribute-seed_CxT6MyUIT.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648662352931](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/contribute-seed_CxT6MyUIT.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648662352931)
+    [https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-contribute_pUo_fQKxZz?ik-sdk-version=javascript-1.4.3&updatedAt=1648822915570](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-contribute_pUo_fQKxZz?ik-sdk-version=javascript-1.4.3&updatedAt=1648822915570)
     
 2. Note that Seed Launches end when the maximum funding is reached or the contribution time window is over (whether or not the funding target is reached). If the launch ends and the funding target has not been reached, no project tokens will be distributed and contributors can reclaim their funding tokens.
 
 If the funding target or the maximum funding is reached, contributors can claim project tokens in the "Claim" box after the launch ends.
     
-    ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/claim-seed_rjE9X6-EG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648662461006](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/claim-seed_rjE9X6-EG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648662461006)
+    [https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-claim-600_5OsJ_EV7DR?ik-sdk-version=javascript-1.4.3&updatedAt=1648822810453](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-claim-600_5OsJ_EV7DR?ik-sdk-version=javascript-1.4.3&updatedAt=1648822810453)
     
     Note, however, that many Seed Launches will have vesting periods with cliffs and/or vesting time:
     
@@ -893,10 +817,3 @@ Based on collected insights, Bankless Consulting will canvas a community strateg
 [PrimeDAO Blog](https://medium.com/primedao)
 
 [Prime (D2D) Token](https://etherscan.io/token/0xE59064a8185Ed1Fca1D17999621eFedfab4425c9)
-
-<aside>
-⚠️ **—END OF DOCUMENTATION—**
-
-</aside>
-
----

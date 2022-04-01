@@ -1,9 +1,5 @@
 {
     "documents": [{
-            "title": "TESTING",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/gettingStarted.md"
-        },
-        {
             "title": "GETTING STARTED",
             "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/gettingStarted.md"
         },
@@ -36,20 +32,12 @@
             "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/contributeToALaunch.md"
         },
         {
-            "title": "TROUBLESHOOT",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/troubleshoot.md"
-        },
-        {
-            "title": "ADVANCED",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/advanced.md"
-        },
-        {
             "title": "PRIME SERVICE PROVIDER PARTNERS",
             "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/primeServicePartners.md"
         },
         {
             "title": "Longtail Financial",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/longTailFinancial.md"
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/longTailFinance.md"
         },
         {
             "title": "LexDAO",

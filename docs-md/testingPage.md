@@ -1,3 +1,5 @@
+# GETTING STARTED
+
 Prime Launch is a platform to host reliable and fair token launches on Ethereum — designed for teams who need simplicity, speed, and performance. It’s powered by Balancer v2 and curated by Prime Rating.
 
 - Project teams and DAOs can use Prime Launch to seamlessly attract resources and distribute tokens to a wide audience of contributors in a completely web3 native way.
@@ -127,12 +129,8 @@ We deploy **security mechanisms** to minimize or eliminate the risk for you and 
 
 Our **permissioned, curated approach** to projects that want to get listed and use Launch has one main objective: always **ensure quality launches for DAOs and their contributors**. Project administrators can follow our comprehensive documentation and tutorials, alongside a dedicated human support.
 
-Prime Launch’s decentralized and curated token offering platform is powered by Balancer v2 and it’s **available on Ethereum and Arbitrum**. Prime Launch will soon feature our own custom open-source contracts for Celo and Gnosis Chain developed [in partnership with Symmetric](https://medium.com/primedao/symmetric-primedao-working-together-to-accelerate-the-dao-ecosystem-on-celo-and-gnosis-chain-4fac91b38200). All these contracts are thoroughly audited and are designed to enable fair and effective token launches.
+Prime Launch’s decentralized and curated token offering platform is powered by Balancer v2 and it’s **available on Ethereum and Arbitrum**. Prime Launch will soon feature our own custom open-source contracts for Celo and Gnosis Chain developed [in partnership with Symmetric](https://medium.com/primedao/symmetric-primedao-working-together-to-accelerate-the-dao-ecosystem-on-celo-and-gnosis-chain-4fac91b38200). All these contracts are thoroughly audited and are designed to enable fair and effective token launches. (n.b. Balancer has completed [full audits](https://docs.balancer.fi/v/v1/core-concepts/security/audits) with Consensys Diligence, Trail of Bits, and Open Zeppelin, Seed Launch .... /// Symmetric contracts are [audited by QuillAudits](https://docs.symmetric.exchange/due-diligence/audits-and-risk-fund)  being audited by [Team Omega](https://teamomega.eth.link/))
 
-<aside>
-✅ Balancer has completed [full audits](https://docs.balancer.fi/v/v1/core-concepts/security/audits) with Consensys Diligence, Trail of Bits, and Open Zeppelin, Seed Launch .... /// Symmetric contracts are [audited by QuillAudits](https://docs.symmetric.exchange/due-diligence/audits-and-risk-fund)  being audited by [Team Omega](https://teamomega.eth.link/)
-
-</aside>
 
 With every launch we are ready to support DAOs with dedicated in-house and third-party support services thanks to our strong partnerships. For a list and full breakdown of these services see here (TODO add anchor).
 
@@ -190,7 +188,7 @@ This is what drives us daily, and what we expect from you:
 
 -->
 
-# <!--CORE CONCEPTS & FAQs-->
+# CORE CONCEPTS & FAQs-->
 
 ### Why should I use Prime Launch for my token launch?
 
@@ -382,7 +380,7 @@ The project admin can pause the LBP through the admin dashboard by clicking on �
 
 It means that users can trade any token in exchange for the project token at the price of higher slippage.
 
-# <!--HOST A LAUNCH-->
+# HOST A LAUNCH-->
 
 ## How to Host a Launch
 
@@ -448,7 +446,7 @@ See the walkthrough to register a Seed Launch with the Wizard (TODO link)
 
 See the walkthrough to set up a Liquid Launch (LBP) with the Wizard (TODO link)
 
-# <!--SEED LAUNCH-->
+ # SEED LAUNCH-->
 
 A Seed Launch is a token offering by an early-stage project to a small group of contributors, in order to raise initial resources for the venture.
 
@@ -461,7 +459,7 @@ Project teams may also specify (with an allowlist) which addresses will be allow
 
 To host a Seed Round on Prime Launch, see (TODO add anchor/link) Apply to host a Launch or head straight to the <a href="/register">application page</a>. To contribute to a launch, see <a href="/documentation/contribute-to-a-launch">Contribute to a Launch</a> or view all upcoming launches <a href="/launches">here</a>.
 
-# <!--SEED LAUNCH WALKTHROUGH-->
+ <!--# SEED LAUNCH WALKTHROUGH-->
 
 ## Connect with your wallet and start the wizard
 
@@ -498,7 +496,8 @@ To host a Seed Round on Prime Launch, see (TODO add anchor/link) Apply to host a
     - The native Ethereum address of the token you are offering to contributors.
     - The maximum supply of project tokens to exist over the project's lifetime. If there is no maximum, provide a reasonable estimate.
     - The project token distribution between different stakeholders. Click on ‘+ Add Stakeholder’ to add a new Stakeholder Group.
-    - For each group you need to define the amount of token you plan to distribute (or that you have already distributed) to that Stakeholder Group, as well as the Vest and Cliff period (TODO: add link to glossary) for that group.
+    - For each group you need to define the amount of token you plan to distribute (or that you have already distributed) to that Stakeholder Group, as well as the Vest and Cliff period (TODO: add link to glossary) for that group
+    
     ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-add-stakeholder_05JaC5qiN.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648833486931](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-add-stakeholder_05JaC5qiN.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648833486931)
     
 4. Projects who issue tokens in multiple rounds should clearly demarcate the amount of tokens distributed in each round, so for instance you can specify a group for each round.
@@ -517,6 +516,7 @@ To host a Seed Round on Prime Launch, see (TODO add anchor/link) Apply to host a
     - Define **Funding Tokens Maximum** which specifies the maximum amount to be raised in the Seed Launch. Once the Funding Maximum is reached, the seed will automatically end and the vesting period, if there is one, will begin.
     - Define the **Vesting Schedule** for the people that will participate as contributors in the Seed Launch. Input the duration in days in which the Project token is vested. Vesting is released linearly by default. The cliff is the period in which no tokens can be withdrawn or used — they are locked until this date. Please consider to set a starting date that is not sooner than 5 days from now as this will allow PrimeDAO to multisig approve this launch.
     - Define the **Seed Schedule** which is the period in which your Seed Launch will be open for contributions. The schedule can end before the End Date in the case your Seed Launch reaches the Funding Tokens Maximum.
+
 6. (optional) If you want to allow specific address to contribute to your Seed Launch, add a URL to an **allowlist** in .csv format containing the list of addresses that are allowed to purchase Project tokens. The file must be formatted as plain text and each address must be separated from its neighbor addresses by one or more commas, spaces, tabs or carriage returns. Example using only commas:
     
     ```
@@ -524,29 +524,33 @@ To host a Seed Round on Prime Launch, see (TODO add anchor/link) Apply to host a
     ```
     
 7. (optional) If you want your contributors to sign a **legal disclaimer**, add a URL to a file containing the text of the disclaimer. If supplied, all contributors must accept the disclaimer in order to access the launch. The disclaimer must be formatted as plain text or Markdown. [(More info about Markdown)](https://www.markdownguide.org/getting-started/)
-8. (optional) Toggle the **Geoblock** in case you want to prevents the following list of geographic locations from contributing to your launch:
 
-Afghanistan, Cuba, Ethiopia, Guyana, Iran, Iraq, North Korea, Sudan, Syria, United States, United States Minor Outlying Islands, Venezuela, Yemen, the Crimea.
+8. (optional) Toggle the **Geoblock** in case you want to prevents the following list of geographic locations from contributing to your launch: Afghanistan, Cuba, Ethiopia, Guyana, Iran, Iraq, North Korea, Sudan, Syria, United States, United States Minor Outlying Islands, Venezuela, Yemen, the Crimea.
+
 9. Define the **Administrator wallet address**. The Seed Administrator has the ability to pause and close the seed, alter the allowlist and withdraw funding tokens.
 You can define the address you’re connected to the website with by clicking ‘I will be the administrator’. Alternatively you can choose another address to be administrator by simply input that address in the Seed Administrator text field.
 
-Click ‘Next’ to move to the next section of the Wizard
+    Click ‘Next’ to move to the next section of the Wizard
+    
 10. Define the **Contact Details** (e-mail address) and add any additional remarks that you might have for us.  
 
-Click ‘Next’ to move to the next section of the Wizard, the **Seed Summary.**
-11. You will see a recap of all the data you have input to setup your Seed Launch. Please thoroughly review the details of your seed submission before proceeding, as it’s your sole responsibility in case some details are wrong.
+    Click ‘Next’ to move to the next section of the Wizard, the **Seed Summary.**
 
-Click ‘Proceed’ to move to the final section of the Wizard.
+11. You will see a recap of all the data you have input to setup your Seed Launch. Please thoroughly review the details of your seed submission before proceeding, as it’s your sole responsibility in case some details are wrong.
+    
+    Click ‘Proceed’ to move to the final section of the Wizard.
+
 12. In the last section of the Wizard you will be asked to:
     - Read carefully
     - Tick the boxes to agree to the [Prime Launch Terms of Service](https://launch.prime.xyz/terms-of-service), to confirm that you have reviewed the details of your launch submission (in the previous step) and they are correct, and that you have read the [Privacy Policy](https://launch.prime.xyz/terms-of-service), including the [Prime Launch Cookie Use](https://launch.prime.xyz/terms-of-service).
     - Click on ‘Submit’ to create a request for creation of the Seed that will be reviewed by PrimeDAO and subsequently displayed in the Prime Launch interface. The approval takes place in the [Prime Launch multisig wallet](https://gnosis-safe.io/app/rin:0x2E46E481d57477A0663a7Ec61E7eDc65F4cb7F5C/transactions) and generally take 5-7 days.
     - Confirm the contract interaction in your wallet and awaits confirmation.
     - You will be redirected to a page that provides you with the Seed configuration stored in the JSON format in IPFS. **Please save this URL as it can allow us to debug potential problem. Note that it takes a moment to generate the JSON file on IPFS so be patient.**
+    
 13. Once approved, we will inform you to your contact e-mail and the Seed Admin will have to fund the Seed with the correct amount of project tokens. The amount of project tokens to fund is calculated as **Funding Tokens Maximum** divided by **Project Token Exchange Ratio** plus the fee (which at the moment is 0% for all launches). In order to fund you need to connect with the Seed Administrator wallet to the [Admin Dashboard](https://launch.prime.xyz/admin/seeds/dashboard).
 After adding the funds, the Seed is initialized. The Seed will automatically be live and available for people to contribute on your start date.    
 
-# <!--LIQUID LAUNCH-->
+# LIQUID LAUNCH-->
 
 A Liquid Launch is a public token offering that works by attempting to bootstrap the liquidity of a new token. Liquid Launches use Balancer V2's Liquidity Bootstrapping Pools (LBPs) to facilitate fair and efficient environments for distributing tokens. The mechanism has been utilized dozens of times with [promising results](https://medium.com/perpetual-protocol/everything-you-need-to-know-about-the-first-liquidity-bootstrapping-pool-lbp-60a61b368c82).
 
@@ -558,11 +562,12 @@ For a complete breakdown of how Liquid Launches work on the back end, please rea
 
 To host a Liquid Launch, see <a href="/documentation/host-a-launch">Apply to host a Launch</a> or head straight to the <a href="/register">application page</a>. To contribute to a launch, see <a href="/documentation/contribute-to-a-launch">Contribute to a Launch</a> or view all upcoming launches <a href="/launches">here</a>.
 
-# <!--LIQUID LAUNCH (LPB) WALKTHROUGH-->
+# LIQUID LAUNCH (LPB) WALKTHROUGH-->
 
 ## Connect with your wallet and start the wizard
 
 1. Visit [https://launch.prime.xyz/register](https://launch.prime.xyz/register) (for Mainnet) [https://arbitrum.launch.prime.xyz](https://arbitrum.launch.prime.xyz/)/register (for Arbitrum).
+
 2. Click on ‘Connect to a Wallet’ and accept the [Prime Launch Terms of Service](https://launch.prime.xyz/terms-of-service). Make sure you are connected to the intended network.
     - You need to have a compatible wallet set up. Prime Launch connects to most Ethereum wallets, including Metamask and all wallets compatible with WalletConnect. If you don't have an Ethereum wallet yet, set up a [Metamask account](https://metamask.io/) or use a WalletConnect-enabled mobile wallet like [Rainbow](https://rainbow.me/) or [Argent](https://www.argent.xyz/).
     - You will need to fund your wallet with some ETH for paying the transaction costs needed to setup the launch (~$25 worth of ETH is safe). Most wallets will give you instructions on how to acquire those tokens and ETH.
@@ -570,6 +575,7 @@ To host a Liquid Launch, see <a href="/documentation/host-a-launch">Apply to hos
     ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-wallet-connect_s9psklGul.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648833968114](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-wallet-connect_s9psklGul.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648833968114)
     
 3. Click on ‘Start LBP’
+
 4. Click on ‘Start Registration’.
     - In the future you will be able to choose between different LBP packages. At the moment only the *Basic* package is available.
 
@@ -600,8 +606,9 @@ To host a Liquid Launch, see <a href="/documentation/host-a-launch">Apply to hos
     ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-add-stake.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648834470125](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-add-stake.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648834470125)
     
 4. Projects who issue tokens in multiple rounds should clearly demarcate the amount of tokens distributed in each round, so for instance you can specify a group for each round.
-  This is an example of a Stakeholder Group table distribution:
-   ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-stakeholder-table_UhueFMnuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648834239823](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-stakeholder-table_UhueFMnuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648834239823)
+ This is an example of a Stakeholder Group table distribution:
+    
+    ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-stakeholder-table_UhueFMnuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648834239823](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-stakeholder-table_UhueFMnuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648834239823)
    
    Click ‘Next’ to move to the next section of the Wizard
     
@@ -611,30 +618,34 @@ To host a Liquid Launch, see <a href="/documentation/host-a-launch">Apply to hos
     At the moment you can choose between Prime (D2D), Olympus (OHM), Governance OHM (gOHM), Dai Stablecoin (DAI), USD Coin (UDSC), Wrapped Ether (WETH).
     - Define the total amount of Project Tokens that you will provide to the LBP and the total amount of Funding (Collateral) Tokens that will be supplied to set up your Liquid Launch.
     - Define the Start & End Date and Time as well as the Start & End Weights of your Liquid Launch.
+
 6. LBPs leverage a dynamic weighting that shifts throughout the pool’s lifespan, finding a fair market value by starting at a relatively higher price and lowering the price over time by adjusting the weight ratios if there are no purchases.
+    
+    The general idea is to start with the pool weights heavily pitched towards your Project Token, and then gradually shift the weights towards the Funding (Collateral) asset by the end of the launch. In this way the majority of your Project Tokens end up being exchanged for the Funding (Collateral) Token you have chosen. By adjusting these parameters the sale can be set to keep the price more or less steady, or declining to a desired minimum (i.e. minimum price target).
+    
+    Another important thing to keep in mind is that the lower you set the weights of the Funding (Collateral) asset in your LBP, the less upfront capital you would need to seed your launch. In a Prime Liquid Launch, the most pitched ratio in favor of your Project Token that you can set is 2:98, meaning that the pool composition will be 2% your Funding (Collateral) asset, and 98% the Project Token.
 
-The general idea is to start with the pool weights heavily pitched towards your Project Token, and then gradually shift the weights towards the Funding (Collateral) asset by the end of the launch. In this way the majority of your Project Tokens end up being exchanged for the Funding (Collateral) Token you have chosen. By adjusting these parameters the sale can be set to keep the price more or less steady, or declining to a desired minimum (i.e. minimum price target).
+    However, keep in mind that since the value of your Project Token is proportional to the value of the Funding (Collateral) Token you provide for the launch, the amount of funds you can raise in the launch is limited by the total value of the Funding (Collateral) Tokens you provide to the LBP.
 
-Another important thing to keep in mind is that the lower you set the weights of the Funding (Collateral) asset in your LBP, the less upfront capital you would need to seed your launch. In a Prime Liquid Launch, the most pitched ratio in favor of your Project Token that you can set is 2:98, meaning that the pool composition will be 2% your Funding (Collateral) asset, and 98% the Project Token.
+    For example, with an LBP weight ratio of 2:98 (Funding Token:Project Token), if your upfront capital is 50K USDC, and your starting price is 10 USDC, the amount of tokens you can sell is [(50K / 0.02) / 10] = approx. 250K tokens. In contrast, if your upfront capital is 1M USDC, you’d be able to sell around 5M worth of tokens.
 
-However, keep in mind that since the value of your Project Token is proportional to the value of the Funding (Collateral) Token you provide for the launch, the amount of funds you can raise in the launch is limited by the total value of the Funding (Collateral) Tokens you provide to the LBP.
+    To learn more about how LBP and weights work please refer to this primer on the [Balancer Documentation](https://docs.balancer.fi/v/v1/guides/smart-pool-templates-gui/liquidity-bootstrapping-pool).
 
-For example, with an LBP weight ratio of 2:98 (Funding Token:Project Token), if your upfront capital is 50K USDC, and your starting price is 10 USDC, the amount of tokens you can sell is [(50K / 0.02) / 10] = approx. 250K tokens. In contrast, if your upfront capital is 1M USDC, you’d be able to sell around 5M worth of tokens.
+    Decide on critical parameters, such as LBP duration, starting and ending weights, and estimate the demand (i.e., expected sale rate), is extremely important. Balancer also provides a [LBP simulator](https://docs.google.com/spreadsheets/d/1t6VsMJF8lh4xuH_rfPNdT5DM3nY4orF9KFOj2HdMmuY/edit?usp=sharing) that allow you to define these parameters according to your expectations. You can also reach out to us and we will help you out to understand and define the most strategic parameters for your launch.
 
-To learn more about how LBP and weights work please refer to this primer on the [Balancer Documentation](https://docs.balancer.fi/v/v1/guides/smart-pool-templates-gui/liquidity-bootstrapping-pool).
-
-Decide on critical parameters, such as LBP duration, starting and ending weights, and estimate the demand (i.e., expected sale rate), is extremely important. Balancer also provides a [LBP simulator](https://docs.google.com/spreadsheets/d/1t6VsMJF8lh4xuH_rfPNdT5DM3nY4orF9KFOj2HdMmuY/edit?usp=sharing) that allow you to define these parameters according to your expectations. You can also reach out to us and we will help you out to understand and define the most strategic parameters for your launch.
 7. You can further consult the automatically generated chart in which you can find details on important statistics of the Project Token such as the price and fee percentage. **Implied Market Capitalization** displays the implied market valuation if all Project Tokens are part of the circulating supply. **Price Range** displays the lowest and highest price of the Project Token (in USD) during the launch period. Make sure that this chart reflects your expectations.
 So basically what you are doing here is giving **your project’s tokens an initial value by collateralizing them and selecting a start weight.**
-8. (optional) If you want your contributors to sign a legal disclaimer, add a URL to a file containing the text of the disclaimer. If supplied, all contributors must accept the disclaimer in order to access the launch. The disclaimer must be formatted as plain text or Markdown. [(More info about Markdown)](https://www.markdownguide.org/getting-started/)
-9. (optional) Toggle the Geoblock in case you want to prevents the following list of geographic locations from contributing to your launch:
 
-Afghanistan, Cuba, Ethiopia, Guyana, Iran, Iraq, North Korea, Sudan, Syria, United States, United States Minor Outlying Islands, Venezuela, Yemen, the Crimea. 7. Define the Administrator wallet address. 
+8. (optional) If you want your contributors to sign a legal disclaimer, add a URL to a file containing the text of the disclaimer. If supplied, all contributors must accept the disclaimer in order to access the launch. The disclaimer must be formatted as plain text or Markdown. [(More info about Markdown)](https://www.markdownguide.org/getting-started/)
+
+9. (optional) Toggle the Geoblock in case you want to prevents the following list of geographic locations from contributing to your launch: Afghanistan, Cuba, Ethiopia, Guyana, Iran, Iraq, North Korea, Sudan, Syria, United States, United States Minor Outlying Islands, Venezuela, Yemen, the Crimea. 7. Define the Administrator wallet address. 
+
 10. The LBP Administrator has the ability to pause and close the LBP, alter the allowlist and withdraw funding tokens.
 
-You can define the address you’re connected to the website with by clicking ‘I will be the administrator’. Alternatively you can choose another address to be administrator by simply input that address in the LBP Administrator text field.
+    You can define the address you’re connected to the website with by clicking ‘I will be the administrator’. Alternatively you can choose another address to be administrator by simply input that address in the LBP Administrator text field.
 
-Click ‘Next’ to move to the next section of the Wizard
+    Click ‘Next’ to move to the next section of the Wizard
+
 11. Define the Contact Details (e-mail address) and add any additional remarks that you might have for us.
     
     
@@ -643,6 +654,7 @@ Click ‘Next’ to move to the next section of the Wizard
 12. You will see a recap of all the data you have input to setup your LBP Launch. Please thoroughly review the details of your LBP submission before you submit, as it’s your sole responsibility in case some details are wrong.
 
 Click ‘Proceed’ to move to the final section of the Wizard.
+
 13. In the last section of the Wizard you will be asked to:
     - Read carefully
     - Tick the boxes to agree to the [Prime Launch Terms of Service](https://launch.prime.xyz/terms-of-service), to confirm that you have reviewed the details of your launch submission (in the previous step) and they are correct, and that you have read the [Privacy Policy](https://launch.prime.xyz/terms-of-service), including the [Prime Launch Cookie Use](https://launch.prime.xyz/terms-of-service).
@@ -653,11 +665,11 @@ Click ‘Proceed’ to move to the final section of the Wizard.
 15. After adding the funds, the LBP will become available in the Prime Launch UI on the start date that you set. However, please note that LBP swapping will be in a "paused" state until, as the LBP administrator, you unpause it to open up swapping. At close time, to ensure an accurate LBP launch, you will need to pause the LBP to turn off swapping. You can also do this in the [Admin Dashboard](https://launch.prime.xyz/admin/lbps/dashboard).
     
 
-# <!--CONTRIBUTE TO A LAUNCH-->
+# CONTRIBUTE TO A LAUNCH-->
 
 To contribute to a launch and receive project tokens in exchange of funding tokens, follow the steps outlined below.
 
-1. To see upcoming or live launches that you might want to contribute to visit [https://launch.prime.xyz/launches](https://launch.prime.xyz/launches) (for Mainnet) [https://arbitrum.launch.prime.xyz/launches](https://arbitrum.launch.prime.xyz/launches) (for Arbitrum)
+1. To see upcoming or live launches that you might want to contribute to visit [https://launch.prime.xyz/launches](https://launch.prime.xyz/launches) (for Mainnet) or [https://arbitrum.launch.prime.xyz/launches](https://arbitrum.launch.prime.xyz/launches) (for Arbitrum)
 2. Click on ‘Connect to a Wallet’ and accept the [Prime Launch Terms of Service](https://launch.prime.xyz/terms-of-service). Make sure you are connected to the intended network.
     - You need to have a compatible wallet set up. Prime Launch connects to most Ethereum wallets, including Metamask and all wallets compatible with WalletConnect. If you don't have an Ethereum wallet yet, set up a [Metamask account](https://metamask.io/) or use a WalletConnect-enabled mobile wallet like [Rainbow](https://rainbow.me/) or [Argent](https://www.argent.xyz/).
     
@@ -665,9 +677,10 @@ To contribute to a launch and receive project tokens in exchange of funding toke
     
     - The first time you connect to the Prime Launch website with a new wallet you will be required to accept the [Prime Launch Terms of Service Disclaimer](https://launch.prime.xyz/terms-of-service).
     
-    [https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-tos-600_3_i1RVNhi_?ik-sdk-version=javascript-1.4.3&updatedAt=1648835406846](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-tos-600_3_i1RVNhi_?ik-sdk-version=javascript-1.4.3&updatedAt=1648835406846)
+    ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-tos-600_3_i1RVNhi_?ik-sdk-version=javascript-1.4.3&updatedAt=1648835406846](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-tos-600_3_i1RVNhi_?ik-sdk-version=javascript-1.4.3&updatedAt=1648835406846)
     
 3. Next up, you will need to fund your wallet with some of the tokens you want to contribute to the Launch (funding tokens) and some ETH for paying transaction costs (~$25 worth of ETH is safe). Most wallets will give you instructions on how to acquire those tokens and ETH.
+
 4. On the <a href="/launches">Launches page</a>, you can view the upcoming launches and see which funding tokens the project is accepting in its launch.
     - Make sure to DYOR (Do Your Own Research) on the project you want to fund, starting from the links attached to the Launch in the About section of the launch page
     - Make sure you read the project’s disclaimer if there is one
@@ -688,9 +701,8 @@ If the funding target or the maximum funding is reached, contributors can claim 
   [https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-claim-600_5OsJ_EV7DR?ik-sdk-version=javascript-1.4.3&updatedAt=1648822810453](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-claim-600_5OsJ_EV7DR?ik-sdk-version=javascript-1.4.3&updatedAt=1648822810453)
     
   Note, however, that many Seed Launches will have vesting periods with cliffs and/or vesting time:
-    
-    - Cliff: a period of time before any tokens can be claimed
-    - Vest: a period of time following the cliff during which tokens will be unlocked linearly
+*    Cliff: a period of time before any tokens can be claimed
+*    Vest: a period of time following the cliff during which tokens will be unlocked linearly
     
   For example, take a Seed Launch with a 3 day cliff and a 10 day vest. A contributor who has contributed enough to claim 10 tokens will have to wait 3 days for the cliff, after which their 10 tokens will unlock gradually over the next 10 days.
     
@@ -701,7 +713,7 @@ To contribute to a Liquid Launch, you must have any token with liquidity on the 
 
 - In the "Contribute" box on the right of the screen, connect with your wallet and accept the Prime Launch Terms of Service. Afterward, select the token and amount you would want to exchange for the project token and click the approve button in the Contribute box to start the transaction to approve these tokens to be spent inside Prime Launch. Once confirmed, you can now click on Contribute, which will begin the transaction to swap your tokens for the project's tokens.
 
-# <!--PRIME LAUNCH SUPPORT SERVICES-->
+# PRIME LAUNCH SUPPORT SERVICES
 
 On top of every launch we are ready to support every DAOs with dedicated in-house and third-party support service providers.
 
@@ -717,7 +729,7 @@ Please check the details for each of our service partners:
 - **ByteRocket**
 - **Bankless Consulting**
 
-# <!--Longtail Financial-->
+# Longtail Financial-->
 
 **Longtail Financial (LTF)** is a decentralized research firm that is investigating the intersection of blockchain technologies in finance. With a focus is in machine learning, token engineering, and decentralised coordination.
 
@@ -754,13 +766,13 @@ LTF research team has developed machine learning techniques that systematically 
 3. Forking Uniswap code base on Polygon Layer 2 network, with a custom interactive dashboard in order to build a branded DEX for a customer.
 4. Provide NFT and EIP technical expertise to help drive development decisions in the deployment of end-user-interactivity for an NFT project.
 
-# <!--LexDAO-->
+# LexDAO-->
 
 LexDAO is a club of web3 lawyers building the next generation of contracts. LexDAO is a club, not a law firm and not even an incorporated entity. LexDAO is an unincorporated nonprofit association under Wyo. Stat. Title 17, Ch. 22 of the laws of the State of Wyoming. For explicit statement, no individual DAO member is an agent of other DAO members or for LexDAO, LLC.
 
 Lawyers within LexDAO, independent of the DAO itself, will often support projects with legal aid after a consultation.
 
-# <!--YapDAO-->
+# YapDAO-->
 
 ## Brand Positioning Workshop
 
@@ -783,7 +795,7 @@ A Brand Positioning workshop and Brand Guide ensures your project has the tools 
 - A finalized 1-2 page Brand Guide with core messaging, to be used in all internal/external communications
 - A follow up .5 hour sync to ensure all parties are pleased with Brand Guide, and review on how the Brand Guide was helpful to the DAOs
 
-# <!--ByteRocket-->
+# ByteRocket-->
 
 ## Smart Contract Audits
 
@@ -842,7 +854,7 @@ Having finished the review and analysis independently, our auditors now internal
 - [RealityCards v1-May 2020](https://byterocket.com/audit/realitycards-v1)
 - [dao.care-Apr 2020](https://byterocket.com/audit/dao-care)
 
-# <!--**Bankless Consulting-->**
+# Bankless Consulting-->
 
 ## Community strategy, branding and marketing content are the place to start
 
@@ -853,7 +865,7 @@ Based on collected insights, Bankless Consulting will canvas a community strateg
 - Design of a medium-term plan for marketing roll-out
 - Long-term roadmap for community engagement and scaling
 
-# <!--LAUNCH RESOURCES-->
+# LAUNCH RESOURCES-->
 
 ## Prime Launch
 

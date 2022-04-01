@@ -20,8 +20,6 @@ Prime Launch provides DAOs with ready-to-use launch infrastructure: low initial 
 
 The first question most people have is, of course, how is Prime Launch different from everything else out there? Here’s a table to give you a quick summary:
 
-[Comparison table (need to be exported in HTML)](https://www.notion.so/Comparison-table-need-to-be-exported-in-HTML-9b7528de1d284cef95704e52391153a4)
-
 <div>
     <table id="5f37ee76-34ea-4c18-8440-4c219146cd1a" class="simple-table">
         <thead>
@@ -501,11 +499,12 @@ To host a Seed Round on Prime Launch, see (TODO add anchor/link) Apply to host a
     - The maximum supply of project tokens to exist over the project's lifetime. If there is no maximum, provide a reasonable estimate.
     - The project token distribution between different stakeholders. Click on ‘+ Add Stakeholder’ to add a new Stakeholder Group.
     - For each group you need to define the amount of token you plan to distribute (or that you have already distributed) to that Stakeholder Group, as well as the Vest and Cliff period (TODO: add link to glossary) for that group.
-    
-  ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-add-stakeholder_05JaC5qiN.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648833486931](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-add-stakeholder_05JaC5qiN.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648833486931)
+    ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-add-stakeholder_05JaC5qiN.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648833486931](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-add-stakeholder_05JaC5qiN.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648833486931)
     
 4. Projects who issue tokens in multiple rounds should clearly demarcate the amount of tokens distributed in each round, so for instance you can specify a group for each round.
+<br>
    This is an example of a Stakeholder Group table distribution:
+   
    ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-stakeholder-table_UhueFMnuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648834239823](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-stakeholder-table_UhueFMnuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648834239823)
    
    Click ‘Next’ to move to the next section of the Wizard

@@ -1,5 +1,9 @@
 {
     "documents": [{
+            "title": "TESTING STYLA",
+            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/testingPage.md"
+        },
+        {
             "title": "GETTING STARTED",
             "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/gettingStarted.md"
         },
@@ -30,10 +34,6 @@
         {
             "title": "CONTRIBUTE TO A LAUNCH",
             "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/contributeToALaunch.md"
-        },
-        {
-            "title": "CORE CONCEPTS",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/coreConcepts.md"
         },
         {
             "title": "PRIME SERVICE PROVIDER PARTNERS",

@@ -502,14 +502,13 @@ To host a Seed Round on Prime Launch, see (TODO add anchor/link) Apply to host a
     - The project token distribution between different stakeholders. Click on ‘+ Add Stakeholder’ to add a new Stakeholder Group.
     - For each group you need to define the amount of token you plan to distribute (or that you have already distributed) to that Stakeholder Group, as well as the Vest and Cliff period (TODO: add link to glossary) for that group.
     
-    ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-add-stakeholder_05JaC5qiN.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648833486931](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-add-stakeholder_05JaC5qiN.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648833486931)
+  ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-add-stakeholder_05JaC5qiN.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648833486931](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-add-stakeholder_05JaC5qiN.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648833486931)
     
 4. Projects who issue tokens in multiple rounds should clearly demarcate the amount of tokens distributed in each round, so for instance you can specify a group for each round.
-This is an example of a Stakeholder Group table distribution.
-    
-    Click ‘Next’ to move to the next section of the Wizard
-    
-    ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-stakeholder-table_UhueFMnuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648834239823](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-stakeholder-table_UhueFMnuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648834239823)
+   This is an example of a Stakeholder Group table distribution:
+   ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-stakeholder-table_UhueFMnuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648834239823](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-stakeholder-table_UhueFMnuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648834239823)
+   
+   Click ‘Next’ to move to the next section of the Wizard
     
 5. Next up, you will need to setup the **Seed Details** following these guidelines (you can [get in touch with us](https://primedao.typeform.com/PrimeLaunchSup) to understand how to better setup these details according to your strategy):
     - Select from the dropdown menu the **Funding Token** you want to raise, which is the token that your contributors will have to use to fund your Seed Launch in exchange your project’s tokens.
@@ -605,11 +604,10 @@ To host a Liquid Launch, see <a href="/documentation/host-a-launch">Apply to hos
     ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-add-stake.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648834470125](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-add-stake.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648834470125)
     
 4. Projects who issue tokens in multiple rounds should clearly demarcate the amount of tokens distributed in each round, so for instance you can specify a group for each round.
-This is an example of a Stakeholder Group table distribution. 
-    
-    ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-stakeholder-table_UhueFMnuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648834239823](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-stakeholder-table_UhueFMnuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648834239823)
-    
-    Click ‘Next’ to move to the next section of the Wizard
+  This is an example of a Stakeholder Group table distribution:
+   ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-stakeholder-table_UhueFMnuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648834239823](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-stakeholder-table_UhueFMnuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648834239823)
+   
+   Click ‘Next’ to move to the next section of the Wizard
     
 5. Next up, you will need to setup the **Liquid Launch Details** following these guidelines (you can [get in touch with us](https://primedao.typeform.com/PrimeLaunchSup) to understand how to better setup these details according to your strategy):
     - Select from the dropdown menu the **Funding Token** you want to raise, which is the token that your contributors will have to use to fund your LBP Launch in exchange your project’s tokens.

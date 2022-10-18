@@ -1,9 +1,5 @@
 {
     "documents": [{
-            "title": "TESTING STYLA",
-            "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/testingPage.md"
-        },
-        {
             "title": "GETTING STARTED",
             "url": "https://raw.githubusercontent.com/PrimeDAO/launch-docs/main/docs-md/gettingStarted.md"
         },
